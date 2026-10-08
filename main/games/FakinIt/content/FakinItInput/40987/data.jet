@@ -1,0 +1,74 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "a language that you think would be the hardest to learn",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "your favorite kind of foreign food",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "la nationalité de la voiture dans laquelle vous avez circulé le plus récemment ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "550225_1 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "550227_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "550228_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

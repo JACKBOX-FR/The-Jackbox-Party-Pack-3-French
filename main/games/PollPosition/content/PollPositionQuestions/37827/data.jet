@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "55",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont construit des structures complexes à partir de LEGO ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà construit une structure complexe avec des LEGO ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Architecture en briques plastiques. Intérêts excessifs. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526886_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "526889_1 ",
+      "n": "Intro"
+    }
+  ]
+}

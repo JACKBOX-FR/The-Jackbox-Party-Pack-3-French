@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "pénurie ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ne plaisantez même pas sur la pénurie de bacon. Je suis encore sous le choc du scandale de la fixation des prix des glaçages à l’érable de 2003. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le seul gros mot qui peut suivre « bacon » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "471259_1 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "471257_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

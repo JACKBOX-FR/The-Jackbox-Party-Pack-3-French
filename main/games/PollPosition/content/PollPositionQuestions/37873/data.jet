@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "59",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Plus de 40 ans ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes de plus de 40 ans ont bu du lait chocolaté au cours de la dernière année ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Imagerie satellite ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Personnes de plus de 40 ans : Avez-vous bu du lait au chocolat au cours de la dernière année ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Amateurs de boissons brunes. Les personnes d'âge moyen. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "527609_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527607_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

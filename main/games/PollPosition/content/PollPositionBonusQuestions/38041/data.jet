@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "42",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "À quel jeu ils ont joué pendant les cours de gym au collège était le jeu préféré des gens ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel jeu auquel vous avez joué en cours de gym au collège était votre préféré ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ballon chasseur ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Football ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Aucun ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Badminton ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quatre carrés ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Basket-ball ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Hockey en salle ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Kick-ball ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Volley-ball ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Cours de gymnastique au collège. Activité préférée. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "529464_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

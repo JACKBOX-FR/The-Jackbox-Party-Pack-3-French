@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "40",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont totalement à l’aise de laisser des publications à caractère politique sur Facebook ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous totalement à l’aise de laisser des publications à caractère politique sur Facebook ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Des avis controversés. Publication impitoyable. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "508167_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "508165_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

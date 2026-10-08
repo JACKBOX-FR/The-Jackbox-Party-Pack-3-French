@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "something you’d say in church",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose que tu crierais en faisant l'amour ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "la phrase la plus courante que vous envoyez par SMS ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "ce qu'on crie à la télé pendant un match de football ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "545861_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "545865_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "545863_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "545864_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

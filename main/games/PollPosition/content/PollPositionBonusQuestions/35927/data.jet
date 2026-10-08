@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "30",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Selon les gens, qui est le super-héros de bande dessinée le plus nul ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Qui est le super-héros de bande dessinée le plus nul ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Aquaman ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Robin ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Homme araignée ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Jubilé ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Homme en plastique ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Oeil de faucon ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "L'homme fourmi ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Superman ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lanterne verte ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Super-héros. Super nul. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488770_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

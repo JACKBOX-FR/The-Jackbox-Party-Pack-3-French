@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes s’appuient régulièrement sur les calculatrices de leur téléphone pour obtenir des pourboires dans les restaurants ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Parfois ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Régulièrement ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quelle fréquence utilisez-vous la calculatrice de votre téléphone pour déterminer le montant d’un pourboire ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Rarement ou jamais ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Calcul de la gratification. Dépendance aux gadgets. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527919_4 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

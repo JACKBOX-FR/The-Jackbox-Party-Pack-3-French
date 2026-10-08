@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes n’ont JAMAIS mangé de brunch de leur vie ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Il y a plus d'un mois ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Jamais ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quand remonte la dernière fois que vous avez mangé un brunch ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Au cours du mois dernier ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Hybrides petit-déjeuner/déjeuner. Rejet pur et simple. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "510907_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "510905_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

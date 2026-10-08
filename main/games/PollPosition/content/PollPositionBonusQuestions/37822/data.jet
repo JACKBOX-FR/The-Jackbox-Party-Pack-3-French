@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Outre le caviar, quel aliment les gens associent-ils le plus aux riches ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle nourriture associez-vous le plus au fait d’être riche ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Homard ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Fruits de mer ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Vin ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Chou frisé ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Champagne ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Escargot ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Huîtres ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Bifteck ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Foie Gras ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526801_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

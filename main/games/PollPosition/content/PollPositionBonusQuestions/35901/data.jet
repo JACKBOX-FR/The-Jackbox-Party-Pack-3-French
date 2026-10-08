@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "42",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quelle partie du corps les gens ont-ils généralement besoin de masser plus que les autres ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "En un ou deux mots, quelle partie de votre corps a le plus souvent besoin d’un massage ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Retour ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Chevilles ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Fesses ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Jambes ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Tête ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Pieds ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Pénis ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Épaules ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Cou",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488379_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

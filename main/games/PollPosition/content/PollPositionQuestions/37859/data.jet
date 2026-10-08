@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont utilisé des détecteurs de métaux à la plage ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Colibris espions robotisés ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà utilisé un détecteur de métaux sur la plage ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Chasse au trésor mécanisée. Centré sur la plage. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527369_5 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "527372_2 ",
+      "n": "Intro"
+    }
+  ]
+}

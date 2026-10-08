@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "46",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont créé des noms farfelus pour leurs réseaux Wi-Fi domestiques ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je n'ai pas de Wi-Fi. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Un nom sans fioritures. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Le prénom. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de nom utilisez-vous pour votre réseau Wi-Fi ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Un nom farfelu. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Réseaux sans fil. Des noms humoristiques. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "494808_2 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494806_3 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "48",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont possédé un cactus ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà possédé un cactus ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Plantes sèches et épineuses. Tarifs de propriété. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520440_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "520443_1 ",
+      "n": "Intro"
+    }
+  ]
+}

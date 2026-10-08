@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "29",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la matière la moins appréciée des anciens lycéens ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle était la matière que vous aimiez le moins au lycée ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Mathématiques ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Biologie ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Calcul ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Chimie ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Algèbre ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Éducation physique ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Sciences ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Histoire ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Anglais ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528475_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

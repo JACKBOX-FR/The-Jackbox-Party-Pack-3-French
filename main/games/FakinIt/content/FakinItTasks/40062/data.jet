@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Montrez le nombre de doigts qui représentent l’âge que vous aviez lorsque vous avez cessé de croire au Père Noël. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542570_0 ",
+      "n": "Task"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ne renvoient JAMAIS de la nourriture au restaurant, même si elle ne répond pas à leurs normes ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Seulement si c’est particulièrement mauvais. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de sécurité ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Je ne le mangerai peut-être pas, mais je ne le renverrai pas. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Renvoyez-vous de la nourriture dans un restaurant si elle ne répond pas à vos normes ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "À chaque fois, je devrais en avoir pour mon argent. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Mécontentement culinaire. Peur des représailles. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "518087_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "518085_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

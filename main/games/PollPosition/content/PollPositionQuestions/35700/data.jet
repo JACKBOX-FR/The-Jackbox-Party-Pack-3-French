@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes à l’intérieur des ascenseurs tentent généralement de fermer rapidement la porte aux personnes qui se précipitent pour l’attraper au lieu de la maintenir ouverte ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je le ferme rapidement. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de sécurité ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque quelqu’un se précipite pour attraper un ascenseur qui se ferme dans lequel vous êtes déjà à l’intérieur, que faites-vous habituellement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Je le tiens ouvert. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Manque de courtoisie lors des déplacements verticaux. Rejet d’un étranger entrant. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "482759_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "482757_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

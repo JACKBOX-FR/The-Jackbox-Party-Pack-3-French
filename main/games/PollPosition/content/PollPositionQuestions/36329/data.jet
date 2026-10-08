@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "41",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont travaillé dans une ferme pendant au moins une journée ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Imagerie satellite ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà travaillé dans une ferme, ne serait-ce qu'une seule journée ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Tendances du travail. Main-d'œuvre agraire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "500870_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "500868_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

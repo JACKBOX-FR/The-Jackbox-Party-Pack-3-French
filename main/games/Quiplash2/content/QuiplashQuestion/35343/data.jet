@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "baisse ton pantalon|dans ton pantalon|ton pantalon|mon pantalon ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Si mettre de la nourriture pour pique-nique dans votre pantalon est si mal, alors je suppose que vous ne voulez pas d’une tranche de cette délicieuse pastèque que j’ai gardée au chaud toute la journée. Plus pour moi. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le pire endroit pour mettre une salade de pommes de terre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "477562_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "477560_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

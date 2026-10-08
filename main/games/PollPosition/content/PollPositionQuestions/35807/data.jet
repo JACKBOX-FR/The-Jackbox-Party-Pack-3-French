@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "30",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes n’ont pas lu un seul roman au cours de l’année écoulée ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "1-4 ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Zéro ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Combien de romans avez-vous lu l’année dernière ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "5 ou plus ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Engagement en matière d'alphabétisation. Nouvel évitement. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "485434_0 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "485432_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

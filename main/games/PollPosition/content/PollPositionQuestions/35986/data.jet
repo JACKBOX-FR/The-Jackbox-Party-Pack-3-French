@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "35",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent les romans du <i>Seigneur des Anneaux</i> aux romans <i>Harry Potter</i> ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Harry Potter</i> ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le Seigneur des Anneaux</i> de J.R.R. Tolkien ou J.K. Les romans <i>Harry Potter</i> de Rowling ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le Seigneur des Anneaux</i> ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "La confrontation ultime : Tolkien contre Rowling. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "491478_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "491476_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

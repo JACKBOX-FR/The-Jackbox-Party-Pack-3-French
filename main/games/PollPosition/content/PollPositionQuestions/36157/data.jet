@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "22",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes se promènent dans les musées d’art les mains jointes derrière le dos ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous visitez un musée d’art, vous promenez-vous les bras croisés dans le dos ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Posture du mécène de l’art. Placement des mains. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "496921_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496919_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez autant de doigts qu’il y a de bouteilles de vin dans votre maison. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542512_0 ",
+      "n": "Task"
+    }
+  ]
+}

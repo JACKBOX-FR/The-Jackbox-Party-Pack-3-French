@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "61",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ne peuvent PAS vous indiquer le solde actuel de leur compte courant à moins de 10 $ ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Connaissez-vous, à moins de 10 $, le solde actuel de votre compte courant ? (Pas juste de chercher.) ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Finances personnelles. Estimations du solde du compte. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "508232_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "508235_2 ",
+      "n": "Intro"
+    }
+  ]
+}

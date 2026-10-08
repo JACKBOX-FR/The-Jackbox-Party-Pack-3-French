@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "60",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont été convaincues que quelque chose n’allait vraiment pas chez elles après avoir recherché leurs symptômes médicaux en ligne ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Interception des télécommunications ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "La recherche de symptômes médicaux en ligne vous a-t-elle déjà convaincu que quelque chose n'allait vraiment pas chez vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Conseil médical en ligne. Hystérie induite par la navigation. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "527233_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527231_3 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

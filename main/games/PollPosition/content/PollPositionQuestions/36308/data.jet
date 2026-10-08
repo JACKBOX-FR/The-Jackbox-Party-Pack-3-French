@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes n’étiquetent PAS leurs cartons de déménagement ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "La plupart de mes cartons finissent par être étiquetés « divers ». ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Je n'ai pas besoin d'étiqueter mes cartons. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Lors d'un déménagement, avez-vous une catégorie « Divers » dans votre système d'étiquetage des cartons ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ouais. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Stockage en carton ondulé. Processus d'étiquetage. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "500249_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "500247_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

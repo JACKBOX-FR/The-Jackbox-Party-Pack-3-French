@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage des cheveux des gens sont actuellement les plus longs qu’ils aient jamais été ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Imagerie satellite ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "En ce moment, vos cheveux sont-ils les plus longs de votre vie ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Production folliculaire. Matrices temporelles. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499688_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499686_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

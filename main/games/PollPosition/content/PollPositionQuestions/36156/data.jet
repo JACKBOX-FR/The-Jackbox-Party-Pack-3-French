@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "29",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont uriné avec des bouteilles pour éviter de s'arrêter lors de voyages en voiture ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Imagerie satellite ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà uriné dans une bouteille pour éviter de vous arrêter lors d'un road trip ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Conduite longue distance. Réceptacles de secours. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "496904_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496902_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

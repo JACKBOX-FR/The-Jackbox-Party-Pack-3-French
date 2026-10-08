@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "48",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Face à une situation de lit superposé, quel pourcentage de personnes préfèrent dormir sur le lit du haut ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Couchette inférieure ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Interception des télécommunications ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quel est votre endroit préféré sur un lit superposé ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Couchette supérieure ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Montage vertical du matelas. Endroit préféré. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "510242_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "510240_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

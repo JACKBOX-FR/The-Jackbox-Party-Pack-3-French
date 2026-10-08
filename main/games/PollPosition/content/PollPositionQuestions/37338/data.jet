@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes appartiennent actuellement à au moins un club « du mois » ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Appartenez-vous actuellement à un type de club « du mois » ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Le calendrier a déclenché les livraisons. Abonnements produits. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520108_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520106_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

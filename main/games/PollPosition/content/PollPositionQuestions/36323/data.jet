@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "36",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préféreraient vivre toute leur vie pieds nus ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Si vous pouviez vivre toute votre vie pieds nus, préféreriez-vous cela ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Des rêves de vie simples. Sans chaussures. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "500768_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "500766_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

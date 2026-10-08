@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "39",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont utilisé un moteur de recherche pour obtenir des informations sur quelqu’un avant un premier rendez-vous ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance du trafic haut débit ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà utilisé un moteur de recherche pour obtenir des informations sur quelqu’un avant un premier rendez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Curiosité d’avant la date. Vérification Google. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "490364_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "490362_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

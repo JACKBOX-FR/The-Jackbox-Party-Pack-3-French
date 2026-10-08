@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "19",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel film de Tom Hanks les gens aiment-ils le plus ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel est le meilleur film de Tom Hanks ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Forrest Gump</i> ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "<i>Histoire de jouets 3</i> ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "<i>Apollon 13</i> ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "<i>La ligne verte</i> ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les banlieues</i> ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "<i>Histoire de jouets</i> ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "<i>Il faut sauver le soldat Ryan</i> ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "<i>Grand</i> ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les naufragés</i>",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "540106_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

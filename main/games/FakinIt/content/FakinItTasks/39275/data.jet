@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Hands",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez la main si vous possédez quelque chose fabriqué par Nerf. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "540900_0 ",
+      "n": "Task"
+    }
+  ]
+}

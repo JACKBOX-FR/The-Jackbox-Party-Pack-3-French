@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Selon la plupart des gens, quelle est la chanson par excellence des Beatles ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la chanson par excellence des Beatles ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "\"Salut Jude\" ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "« Au secours ! » ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "\"Une journée dans la vie\" ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "« Tout ce dont vous avez besoin, c'est d'amour » ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "« Rassemblez-vous » ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "\"Je veux te tenir la main\" ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "\"Hier\" ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "\"Laisse faire\" ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "« Sous-marin jaune » ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525398_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

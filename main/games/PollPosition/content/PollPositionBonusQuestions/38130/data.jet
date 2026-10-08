@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "37",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de magasin ou de magasin les gens associent-ils le plus aux aéroports ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de magasin associez-vous le plus aux aéroports ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Boutique de livres/magazines ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Magasin de gadgets ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "SkyMall ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Dépanneur ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Restaurant/bar ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Café ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Cinabre ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Boutique hors taxes ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Boutique de souvenirs/cadeaux ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Achats avant le vol. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530663_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

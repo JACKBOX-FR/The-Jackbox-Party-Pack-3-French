@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez un doigt toutes les dix minutes qu'il vous faut généralement pour vous rendre au travail le matin. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541922_0 ",
+      "n": "Task"
+    }
+  ]
+}

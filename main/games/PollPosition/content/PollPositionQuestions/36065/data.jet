@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "86",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont actuellement un sac en plastique rempli d’autres sacs en plastique quelque part chez elles ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "En ce moment, avez-vous un sac plastique rempli d’autres sacs plastique quelque part chez vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Stockage dans l’intention de réutiliser ou de recycler. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "494325_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494323_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

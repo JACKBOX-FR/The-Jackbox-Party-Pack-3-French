@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Pointing",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Montrez la personne qui possède le plus d’animaux de compagnie. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542386_0 ",
+      "n": "Task"
+    }
+  ]
+}

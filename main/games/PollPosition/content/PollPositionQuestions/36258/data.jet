@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "32",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent généralement nettoyer les toilettes plutôt que faire la vaisselle ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Nettoyer les toilettes ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Si vous deviez faire l’un ou l’autre immédiatement, quelle tâche préféreriez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Faire la vaisselle ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Tâches ménagères subalternes. Nettoyage des toilettes vs vaisselle. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499292_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499290_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

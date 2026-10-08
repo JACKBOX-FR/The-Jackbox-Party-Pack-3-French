@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "85",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes déchirent normalement à la main des enveloppes scellées de taille standard au lieu d’utiliser un instrument ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Un couteau ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Mes mains ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Qu'utilisez-vous pour ouvrir des enveloppes scellées de taille standard ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Un véritable ouvre-lettre ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Pénétration postale. Stratégies de suppression. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "519771_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

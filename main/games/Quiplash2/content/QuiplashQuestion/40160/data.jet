@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "machine à voyager dans le temps|une machine à voyager dans le temps|un TARDIS|un T.A.R.D.I.S.|une Delorean|la Delorean ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Si le voyage dans le temps était réel, mon futur moi serait revenu pour m'empêcher d'héberger ce jeu pour la deuxième fois. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Une chose étrange à trouver dans une peinture rupestre ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "542813_1 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "542811_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

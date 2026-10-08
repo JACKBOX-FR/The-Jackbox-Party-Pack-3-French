@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "miniongite|sbire-gite ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Miniongite ! Oui, malheureusement, la miniongite est incurable. Vous devriez toujours rechercher un deuxième serviteur. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Le nom d'une maladie qui vous fait ressembler à un Minion ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "470137_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "470135_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

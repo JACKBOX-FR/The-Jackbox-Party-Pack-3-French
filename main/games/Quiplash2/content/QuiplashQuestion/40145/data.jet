@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Des gommes ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Hé, les gommes peuvent faire peur ! Vous n’avez visiblement pas vu Les Dents de la mer 8 : La colère de la gingavite. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un titre rejeté, moins effrayant, pour le film <i>Jaws</i> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "542738_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "542736_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

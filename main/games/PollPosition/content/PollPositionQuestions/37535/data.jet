@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "48",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Si elles étaient obligées de choisir, quel pourcentage de personnes préféreraient les chaises de bureau à dossier inclinable à celles à roulettes ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Dossier de siège inclinable ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Laquelle de ces deux caractéristiques des chaises de bureau modernes est la plus importante pour vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Roues ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Critères d'assise. Mobilité vs inclinaison. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "522682_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "522680_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

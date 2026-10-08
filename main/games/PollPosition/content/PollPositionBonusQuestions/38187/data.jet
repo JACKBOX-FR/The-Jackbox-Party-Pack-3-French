@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la meilleure saveur de tarte ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel est votre type de tarte préféré ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Pomme ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Meringue au Citron ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Fraise Rhubarbe ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Noix de pécan ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Myrtille ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Soie française ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Citron vert ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Citrouille ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Cerise ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "531330_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

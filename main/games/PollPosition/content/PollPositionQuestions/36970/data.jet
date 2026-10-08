@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "87",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes assemblent des puzzles en sortant de l’intérieur ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Construire vers l'extérieur vers l'intérieur ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est votre stratégie de puzzle ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Construire vers l’intérieur vers l’extérieur ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Méthodologie des puzzles. Théories de la construction. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "515266_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

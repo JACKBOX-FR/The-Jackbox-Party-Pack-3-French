@@ -1,0 +1,137 @@
+{
+    "content":[
+        {
+            "id":0,
+            "type":"ComicLash",
+            "label":"Comic01",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":1,
+            "type":"ComicLash",
+            "label":"Comic02",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":2,
+            "type":"ComicLash",
+            "label":"Comic03",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":3,
+            "type":"ComicLash",
+            "label":"Comic04",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":4,
+            "type":"ComicLash",
+            "label":"Comic05",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":5,
+            "type":"ComicLash",
+            "label":"Comic06",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":6,
+            "type":"ComicLash",
+            "label":"Comic07",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":7,
+            "type":"ComicLash",
+            "label":"Comic08",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":8,
+            "type":"ComicLash",
+            "label":"Comic09",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":9,
+            "type":"ComicLash",
+            "label":"Comic10",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":10,
+            "type":"ComicLash",
+            "label":"Comic11",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":11,
+            "type":"ComicLash",
+            "label":"Comic12",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":12,
+            "type":"ComicLash",
+            "label":"Comic13",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":13,
+            "type":"ComicLash",
+            "label":"Comic14",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":14,
+            "type":"ComicLash",
+            "label":"Comic15",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":15,
+            "type":"ComicLash",
+            "label":"Comic16",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":16,
+            "type":"ComicLash",
+            "label":"Comic17",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":17,
+            "type":"ComicLash",
+            "label":"Comic18",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":18,
+            "type":"ComicLash",
+            "label":"Comic19",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":19,
+            "type":"ComicLash",
+            "label":"Comic20",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":20,
+            "type":"ComicLash",
+            "label":"Comic21",
+            "prompt":"Complète la bande dessinée !"
+        },
+        {
+            "id":21,
+            "type":"ComicLash",
+            "label":"Comic22",
+            "prompt":"Complète la bande dessinée !"
+        }
+    ],
+    "episodeid":1
+}

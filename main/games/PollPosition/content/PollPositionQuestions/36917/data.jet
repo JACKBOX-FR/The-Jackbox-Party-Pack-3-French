@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "37",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent jouer aux jeux de société plutôt qu’aux jeux électroniques ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Jeux électroniques ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de jeu préférez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Jeux de société ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Un plaisir tangible. Loisirs d'antan. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "514132_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "514130_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

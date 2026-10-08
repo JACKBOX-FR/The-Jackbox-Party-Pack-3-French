@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "28",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes visitent un centre commercial au moins une fois par mois ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Moins d'une fois par an. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Peut-être une fois tous les six mois. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "GPS ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Peut-être une fois par an. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quelle fréquence visitez-vous un centre commercial ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Au moins une fois par mois. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Excursions dans les centres commerciaux. Fréquence. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494459_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "494462_1 ",
+      "n": "Intro"
+    }
+  ]
+}

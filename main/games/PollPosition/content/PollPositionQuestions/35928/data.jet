@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "48",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont plus effrayées par les poupées possédées que par les enfants possédés dans les films d’horreur ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Enfants possédés ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Biométrie ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce qui vous fait le plus peur dans les films d'horreur ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Poupées possédées ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Innocent mais mortel : poupées maléfiques contre enfants maléfiques. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "488778_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488776_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

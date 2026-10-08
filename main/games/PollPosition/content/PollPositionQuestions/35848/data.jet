@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "63",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu'ils croisent leurs voisins de passage, quel pourcentage de personnes ne les saluent normalement PAS en utilisant leur prénom ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Fausses roches à microphone caché ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous croisez vos voisins de passage, les saluez-vous habituellement en utilisant leur prénom ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Salutations informelles : prénom facultatif. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "486555_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "486553_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

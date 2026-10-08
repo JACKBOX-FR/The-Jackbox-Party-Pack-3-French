@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "42",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont des applications sur leur téléphone pour les chaînes de restauration rapide ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage des données électroniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous une application sur votre téléphone pour une chaîne de restauration rapide ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Accès à distance aux aliments frits. Non essentiel. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "494495_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494493_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

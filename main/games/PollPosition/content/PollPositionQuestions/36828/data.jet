@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "77",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de citoyens américains mettent la main droite sur leur cœur pendant l’hymne national ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Dans ma poche. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Derrière mon dos. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "A mes côtés ou devant moi. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Citoyens américains : pendant l’hymne national, où placez-vous votre main droite ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Sur mon cœur. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Chansons de salut. Placement de la main patriotique. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "512121_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "512119_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

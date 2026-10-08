@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont sciemment mangé des plats contenant des testicules ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà mangé sciemment un plat contenant des testicules ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Éléments de menu spécialisés. Contenu des gonades. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499926_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499924_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "499927_1 ",
+      "n": "Intro"
+    }
+  ]
+}

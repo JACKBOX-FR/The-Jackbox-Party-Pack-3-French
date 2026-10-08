@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "25",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes pensent qu’elles ne sont pas moyennes, pas seulement plus intelligentes, mais BEAUCOUP plus intelligentes que la personne moyenne ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Pas aussi intelligent que ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Un peu plus intelligent ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Dans la moyenne ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Dans quelle mesure pensez-vous que vous êtes intelligent par rapport à la personne moyenne ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Beaucoup plus intelligent ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Auto-évaluation arrogante du renseignement. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480246_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480244_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

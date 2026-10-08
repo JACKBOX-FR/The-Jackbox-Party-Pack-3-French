@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "20",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ne demandent généralement pas de glace dans leur eau ou leurs boissons gazeuses au restaurant ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Demandez-vous habituellement aux serveurs de restaurant de ne pas mettre de glace dans votre eau ou vos boissons gazeuses ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Demandes de non-dilution des boissons. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520425_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520423_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

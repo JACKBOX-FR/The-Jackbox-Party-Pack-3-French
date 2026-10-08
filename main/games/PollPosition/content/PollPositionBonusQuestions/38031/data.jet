@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel prénom masculin les gens associent-ils le plus étroitement à un homme qui irait dans un restaurant italien chic et commanderait un hamburger ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel prénom masculin vous vient à l’esprit lorsque vous imaginez un homme qui irait dans un restaurant italien chic et commanderait un hamburger ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Tchad ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Mario ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Mike ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Hank ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Joe ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Franck ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Jos ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Steve ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Bob ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "529294_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

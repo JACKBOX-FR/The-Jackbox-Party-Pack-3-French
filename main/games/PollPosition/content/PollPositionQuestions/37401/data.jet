@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "78",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont abusé des distributeurs automatiques pour déloger les achats qu’ils ont effectués ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de sécurité ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà abusé d'un distributeur automatique afin de déloger un achat que vous avez effectué ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Nourriture hébergée. Actes de violence. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520948_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520946_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

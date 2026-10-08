@@ -1,0 +1,74 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "something you would love to roll around in",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "your favorite breakfast food",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose qu'un partenaire potentiel doit aimer si ça marche pour toi ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "546073_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "546075_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "546076_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "28",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont effectué une recherche sur Google au cours des trois derniers mois ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Jamais ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "il y a 3-6 mois ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance du trafic haut débit ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "il y a + de 6 mois ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quand remonte la dernière fois que vous avez effectué une recherche sur Google ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Au cours des 3 derniers mois ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Comportements d'auto-recherche sur Google. Pratique récente. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526460_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526458_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

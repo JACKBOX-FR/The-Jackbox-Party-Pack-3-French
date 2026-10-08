@@ -1,0 +1,82 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 51,
+    "clip": "TDSettingsWidget",
+    "items": [
+        {
+            "title": "Audio Volume",
+            "type": "Range",
+            "clip": "TDSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Rendez le jeu FORT ou SILENCIEUX."
+        },
+        {
+            "title": "Fullscreen Video Mode",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Afficher le jeu en plein écran."
+        },
+        {
+            "title": "Audience",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "AudienceOn",
+            "description": "Audience ON signifie que les non-joueurs peuvent rejoindre et affecter le jeu."
+        },
+        {
+            "title": "Extended Timers",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "ExtendedTimers",
+            "description": "Des minuteries prolongées vous donneront plus de temps pour prendre des décisions."
+        },
+        {
+            "title": "Requires Twitch",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "Exiger que les joueurs soient connectés à Twitch."
+        },
+        {
+            "title": "Skip Tutorials",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "SkipTutorial",
+            "description": "Passer les sections du didacticiel"
+        },
+        {
+            "title": "No Writing and Drawing Mode",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "DisableUserEntryKillingFloors",
+            "description": "Vous ne faites pas confiance à vos terribles joueurs ? Ce mode désactive les étages de destruction des pires réponses et des pires dessins."
+        },
+        {
+            "title": "Start Game from Controller Only",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "GamepadStart",
+            "description": "Les jeux doivent être démarrés avec la manette et non à partir des appareils des joueurs."
+        },
+        {
+            "title": "Allow Room Code Hiding",
+            "type": "Toggle",
+            "clip": "TDToggleWidget",
+            "width": 1,
+            "source": "HideRoomCode",
+            "description": "Autorisez le code de la chambre à être masqué à l’écran."
+        }
+    ]
+}

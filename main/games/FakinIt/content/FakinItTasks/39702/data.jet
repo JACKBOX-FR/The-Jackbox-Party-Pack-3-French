@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la grimace que vous avez pendant que vous déballerez un cadeau de votre grand-mère. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541754_0 ",
+      "n": "Task"
+    }
+  ]
+}

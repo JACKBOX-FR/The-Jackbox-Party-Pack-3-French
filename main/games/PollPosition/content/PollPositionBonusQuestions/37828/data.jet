@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quelle tradition de mariage est la plus stupide ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la tradition de mariage la plus stupide ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Le lancer de la jarretière ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Le coût ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Le côté religieux ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Danse chorégraphiée",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "La cérémonie de mariage ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Gâteau au visage ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Le mariage lui-même ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Jeter du riz ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage des données électroniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lancer le bouquet ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526903_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

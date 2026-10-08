@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont des clés de rechange cachées quelque part à l’extérieur de leur domicile ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Fausses roches à microphone caché ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "En ce moment, avez-vous un double de clé caché à l'extérieur de votre maison ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Alternatives d’entrée. Accès caché. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "513953_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "513951_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

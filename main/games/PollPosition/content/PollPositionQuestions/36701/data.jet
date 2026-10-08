@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "78",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ne diront rien aux étrangers dans les ascenseurs à moins que les étrangers ne parlent en premier ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Dites-vous normalement quelque chose à un inconnu dans un ascenseur s’il ne vous parle pas d’abord ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Espaces confinés. Évitement social. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "509320_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "509323_1 ",
+      "n": "Intro"
+    }
+  ]
+}

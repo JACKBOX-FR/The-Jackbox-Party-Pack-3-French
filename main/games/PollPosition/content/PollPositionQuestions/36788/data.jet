@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "37",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Hommes ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage d’urineurs masculins dans les toilettes publiques souffrent du « trac » ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de toilette ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hommes : Souffrez-vous de « trac » devant les urinoirs publics (c'est-à-dire l'incapacité de « marcher » lorsque vous vous tenez à côté de quelqu'un) ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Peur de la vue du pénis. Paralysie de la salle de bain. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "511225_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "511223_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

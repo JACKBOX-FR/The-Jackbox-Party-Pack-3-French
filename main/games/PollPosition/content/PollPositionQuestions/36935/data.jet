@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont vu au moins sept films <i>Fast and Furious</i> ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "7 ou plus ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "2 à 4 ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance du trafic haut débit ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "5 à 6",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Combien de films « Fast and Furious » avez-vous vu ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "0 à 1 ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Divertissement automobile. Lié au diesel. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "514546_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "514544_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

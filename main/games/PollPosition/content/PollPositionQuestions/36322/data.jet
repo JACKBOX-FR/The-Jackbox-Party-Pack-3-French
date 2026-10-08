@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "48",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes retournent TOUJOURS à leur voiture avant l’expiration des parcomètres ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je reviens toujours avant l'expiration du compteur. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Jusqu'à 10-15 minutes ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Plus de 15 minutes ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Combien de temps êtes-vous prêt à laisser votre voiture à un parcomètre expiré avant de revenir ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Quelques minutes ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "La corde raide municipale. Battre les expirations. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "500751_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "500749_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

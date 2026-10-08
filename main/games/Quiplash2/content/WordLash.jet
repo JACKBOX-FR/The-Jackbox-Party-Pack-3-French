@@ -1,0 +1,90 @@
+{
+  "content": [
+    {
+      "id": 0,
+      "type": "WordLash",
+      "quip": "Créez une nouvelle sitcom hilarante avec ce mot dans le titre : "
+    },
+    {
+      "id": 1,
+      "type": "WordLash",
+      "quip": "Créez une nouvelle émission de télévision avec ce mot dans le titre : "
+    },
+    {
+      "id": 2,
+      "type": "WordLash",
+      "quip": "Trouvez une chanson à succès avec ce mot dans le titre : "
+    },
+    {
+      "id": 3,
+      "type": "WordLash",
+      "quip": "Imaginez un film de comédie romantique avec ce mot dans le titre : "
+    },
+    {
+      "id": 4,
+      "type": "WordLash",
+      "quip": "Créez un roman classique avec ce mot dans le titre : "
+    },
+    {
+      "id": 5,
+      "type": "WordLash",
+      "quip": "Inventez un nouveau sport avec ce mot dans son nom : "
+    },
+    {
+      "id": 6,
+      "type": "WordLash",
+      "quip": "Créez un film primé avec ce mot dans son titre : "
+    },
+    {
+      "id": 7,
+      "type": "WordLash",
+      "quip": "Trouvez un titre de journal choquant avec ce mot dans son titre : "
+    },
+    {
+      "id": 8,
+      "type": "WordLash",
+      "quip": "Créez un nouveau personnage de dessin animé avec ce mot dans son nom : "
+    },
+    {
+      "id": 9,
+      "type": "WordLash",
+      "quip": "Créez une nouvelle comédie musicale à Broadway avec ce mot dans son nom : "
+    },
+    {
+      "id": 10,
+      "type": "WordLash",
+      "quip": "Imaginez un fast-food avec ce mot dans son nom : "
+    },
+    {
+      "id": 11,
+      "type": "WordLash",
+      "quip": "Créez un nouveau jeu vidéo à succès avec ce mot dans son titre : "
+    },
+    {
+      "id": 12,
+      "type": "WordLash",
+      "quip": "Créez un groupe de musique avec ce mot dans son nom : "
+    },
+    {
+      "id": 13,
+      "type": "WordLash",
+      "quip": "Trouvez une insulte intelligente en utilisant ce mot : "
+    },
+    {
+      "id": 14,
+      "type": "WordLash",
+      "quip": "Imaginez un mouvement de lutte flashy avec ce mot dans son nom : "
+    },
+    {
+      "id": 15,
+      "type": "WordLash",
+      "quip": "Inventez une nouvelle collation avec ce mot dans son nom : "
+    },
+    {
+      "id": 16,
+      "type": "WordLash",
+      "quip": "Créez un nouveau site Web très intéressant avec ce mot dans son nom :"
+    }
+  ],
+  "episodeid": 1
+}

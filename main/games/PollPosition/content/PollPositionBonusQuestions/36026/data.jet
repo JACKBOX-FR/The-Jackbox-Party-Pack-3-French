@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "71",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu'ils font un vœu à une fontaine, quelle valeur de pièce de monnaie les gens jettent-ils le plus souvent et souhaitent-ils ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous faites un vœu à une fontaine, quelle valeur de pièce jetez-vous le plus souvent ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Penny ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Tuppence ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Deux dollars ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Aucun ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Le plus bas qu'ils ont ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Dix cents ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Tout leur changement ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Trimestre ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de téléphone portable ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Nickel ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Fontaines publiques. Choix de pièces. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493276_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

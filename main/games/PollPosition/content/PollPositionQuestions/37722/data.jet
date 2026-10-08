@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "30",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes possèdent encore des tours DVD dans leur lieu de résidence ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Possédez-vous une tour DVD ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Méthodes d'organisation des disques. Aujourd'hui.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "525434_2",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525432_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

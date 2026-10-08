@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "76",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de bénisseurs après un éternuement disent généralement « à vos souhaits », et non « gesundheit » ou autre chose, après que quelqu'un ait éternué ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je ne dis rien. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Je dis « gesundheit ». ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausses roches à microphone caché ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Je dis autre chose. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Si vous dites quelque chose à quelqu'un après qu'il ait éternué, dites-vous généralement « à vos souhaits » ou « gesundheit » ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Je dis « je vous bénisse ». ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Répondeurs à l'expulsion nasale. Reconnaissance verbale. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497465_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497463_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

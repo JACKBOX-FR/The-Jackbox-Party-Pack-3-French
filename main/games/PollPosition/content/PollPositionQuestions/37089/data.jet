@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes peuvent jongler avec trois balles à deux mains pendant au moins 10 secondes ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Biométrie ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Pouvez-vous jongler avec trois balles à deux mains pendant au moins dix secondes ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Suspension en vol multi-objets. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "517215_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517213_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

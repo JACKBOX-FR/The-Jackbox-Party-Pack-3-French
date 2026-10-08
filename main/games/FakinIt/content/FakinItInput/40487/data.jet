@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "the last thing you gave someone as a gift",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "la dernière chose que vous avez livrée chez vous ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "ce que vous considérez comme un article essentiel pour la rentrée scolaire ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose que vous avez jeté dans les toilettes mais que vous n'auriez probablement pas dû jeter ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "546133_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "546137_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "546135_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "546136_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

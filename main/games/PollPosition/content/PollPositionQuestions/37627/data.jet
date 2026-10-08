@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "78",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes peuvent friser leur langue ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Pouvez-vous courber votre langue ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Manipulation linguistique. Formes en U.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "524048_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "524051_1",
+      "n": "Intro"
+    }
+  ]
+}

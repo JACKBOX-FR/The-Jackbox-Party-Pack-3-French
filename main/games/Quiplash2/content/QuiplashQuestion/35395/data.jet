@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Snap Crackle TUER|Snap Crackle MEURTRE ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ce serait fou car la seule céréale qui donne envie de tuer quelqu'un, ce sont les Grape Nuts. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Vous savez que vous devenez fou quand vous entendez les Rice Krispies dire « <BLANK> » ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "477934_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "477932_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

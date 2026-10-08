@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "26",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quelle maladie est le plus souvent simulée par les gens pour se sortir de quelque chose ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est votre maladie préférée à simuler (pour vous sortir de quelque chose) ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Maux d'estomac ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Mal de gorge/angine streptococcique ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Fièvre ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Intoxication alimentaire ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Vomissements ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Grippe ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Diarrhée ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Maux de tête/migraine ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Écoutes téléphoniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Froid ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "516969_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "75",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont visité un Walmart entre minuit et 4 heures du matin ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de sécurité ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà visité un Walmart entre minuit et 4 heures du matin ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Horaires de fréquentation impairs. Des clients étranges. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "525315_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525313_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "525316_2 ",
+      "n": "Intro"
+    }
+  ]
+}

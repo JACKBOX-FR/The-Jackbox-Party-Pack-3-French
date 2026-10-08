@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "32",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes se sont déjà habillées en personnage de Batman ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes-vous déjà habillé comme un personnage de Batman (Batman, Catwoman, The Joker, etc.) ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Culte du héros. Expression vestimentaire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "529619_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "529617_5 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

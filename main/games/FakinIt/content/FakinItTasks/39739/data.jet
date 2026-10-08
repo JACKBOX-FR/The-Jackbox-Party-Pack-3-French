@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Indiquez le nombre de doigts que vous pensez avoir chez Homer Simpson. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541828_0 ",
+      "n": "Task"
+    }
+  ]
+}

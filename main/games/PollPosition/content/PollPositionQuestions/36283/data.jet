@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "56",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes mangeront des frites après qu’elles soient tombées de leur assiette et atterrissent sur les tables des restaurants ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Jeter ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Implantation secrète ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Si une frite tombe de votre assiette sur une table de restaurant, la mangez-vous ou la jetez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Manger ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Prise de frites souillées. Niveaux de contamination acceptables. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499824_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499822_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

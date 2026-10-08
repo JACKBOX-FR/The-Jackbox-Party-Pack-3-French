@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "the most romantic month",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "ton mois préféré ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "le meilleur mois pour prendre des vacances ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "un mois qui ne se termine PAS par « er » ou « bre »",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "550201_1 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "550205_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "550203_1 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "550204_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

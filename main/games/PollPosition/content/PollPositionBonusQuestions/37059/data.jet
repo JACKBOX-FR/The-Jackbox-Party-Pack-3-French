@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Qu’est-ce que les gens identifient comme leur plus grande bête noire ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "En un ou deux mots, quelle est votre plus grande bête noire ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Bruits de bouche ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Stupidité ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Interruptions ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Ignorance volontaire ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Des gens méchants ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Mauvais conducteurs ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Impolitesse ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Mauvaise grammaire/orthographe ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Menteurs",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "516769_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

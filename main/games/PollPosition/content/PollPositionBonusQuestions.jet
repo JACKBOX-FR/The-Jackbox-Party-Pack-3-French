@@ -1,0 +1,827 @@
+{
+  "episodeid": 1260,
+  "content": [
+    {
+      "x": false,
+      "id": 35715,
+      "category": "Apéritifs ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35808,
+      "category": "Peur de lui-même ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35809,
+      "category": "Chirurgie Plastique ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37059,
+      "category": "Les bêtes noires des animaux ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37030,
+      "category": "Pâtes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39148,
+      "category": "Amour perdu ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38187,
+      "category": "Tarte ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35811,
+      "category": "Amour des marionnettes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38052,
+      "category": "Comédie britannique ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38049,
+      "category": "Mondes fantastiques ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35901,
+      "category": "C'est là le problème ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37788,
+      "category": "Mutants ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36108,
+      "category": "Mont Rushmore ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39139,
+      "category": "Ventilateurs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37862,
+      "category": "Bandes sonores ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38975,
+      "category": "Auto-évaluation ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38130,
+      "category": "Boutiques d'aéroport ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38041,
+      "category": "Cours de gymnastique ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38119,
+      "category": "Balleurs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37153,
+      "category": "Association de mots ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37777,
+      "category": "Les Tropiques ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36913,
+      "category": "Image de soi ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 38617,
+      "category": "Pécheurs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38129,
+      "category": "Perte de poids ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39140,
+      "category": "Python (Monty) ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39153,
+      "category": "Souvenirs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35884,
+      "category": "Plusieurs significations ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39141,
+      "category": "Rêves, heureux ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38035,
+      "category": "Princes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38118,
+      "category": "YA allumé ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37936,
+      "category": "Jock Jams ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37732,
+      "category": "Applications ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37932,
+      "category": "Vulgarité ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38039,
+      "category": "Navigation ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39137,
+      "category": "Trônes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38116,
+      "category": "Recettes fiscales ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38047,
+      "category": "Course ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38887,
+      "category": "Jouer au docteur ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38114,
+      "category": "Parler de bébé ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37876,
+      "category": "Arcades ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37796,
+      "category": "Cuisine ethnique ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37825,
+      "category": "Badasses ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39138,
+      "category": "Des propositions décentes ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 39143,
+      "category": "Musiciens sexy ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38117,
+      "category": "Couleurs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38879,
+      "category": "Espèces ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37822,
+      "category": "Nourriture riche ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39154,
+      "category": "Dernier repas ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37820,
+      "category": "Rom-Coms ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39149,
+      "category": "Animaux exotiques ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37923,
+      "category": "Sport+Alimentation ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37829,
+      "category": "Chiens de dessin animé ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37183,
+      "category": "Légalisez-le ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37026,
+      "category": "Collecte de fonds ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37060,
+      "category": "Mauvaises habitudes ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37017,
+      "category": "Substituts ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37260,
+      "category": "Rêves brisés ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36005,
+      "category": "Abandonner ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37159,
+      "category": "Tendances ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37311,
+      "category": "Frites ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37367,
+      "category": "Fromage et craquelins ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37164,
+      "category": "Sports amateurs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37148,
+      "category": "Chiens effrayants ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37145,
+      "category": "États américains ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35712,
+      "category": "J'oublie ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37446,
+      "category": "Célébrités ennuyeuses ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37092,
+      "category": "Petite monnaie ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35746,
+      "category": "Échos ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35749,
+      "category": "Yoga ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37395,
+      "category": "Musique des années 90 ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35753,
+      "category": "Oeufs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35891,
+      "category": "Clichés sur le lieu de travail ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 35927,
+      "category": "Super boiteux ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36026,
+      "category": "Fontaines ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36028,
+      "category": "Le plus grand ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37509,
+      "category": "Fruits ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36086,
+      "category": "Mascottes de céréales ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37440,
+      "category": "Sports ennuyeux ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36120,
+      "category": "Superstitions ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37934,
+      "category": "Lycée ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37719,
+      "category": "Musique de maquillage ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37716,
+      "category": "Votre visage ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36122,
+      "category": "Insignes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36125,
+      "category": "Chips de maïs ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36127,
+      "category": "Bonbons d'Halloween ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36129,
+      "category": "Télévision drôle ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36134,
+      "category": "Films de vacances ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36152,
+      "category": "Décor de chambre ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37720,
+      "category": "Chansons des Beatles ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37731,
+      "category": "samedi soir ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37642,
+      "category": "Manèges ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37812,
+      "category": "Longévité ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37860,
+      "category": "Groupes de garçons ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37647,
+      "category": "Glace ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37726,
+      "category": "Dinosaures ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36162,
+      "category": "Sandales ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 38124,
+      "category": "Langue ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36167,
+      "category": "Esprit d'errance ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37868,
+      "category": "Créatures mythiques ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37791,
+      "category": "Télé-réalité ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39136,
+      "category": "Planètes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39144,
+      "category": "Guerre civile ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37679,
+      "category": "Le cirque ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36190,
+      "category": "Parler ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38031,
+      "category": "Mauvais noms ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 37905,
+      "category": "Bobs célèbres ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37655,
+      "category": "Haricots à la gelée ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37723,
+      "category": "Personnes mortes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36193,
+      "category": "Europe ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36210,
+      "category": "Des décennies ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36221,
+      "category": "Ce sont Batman ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36339,
+      "category": "Ruptures ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 36343,
+      "category": "Listes de seau ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37612,
+      "category": "Obligations ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36525,
+      "category": "Porte-clés ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38122,
+      "category": "Impolitesse ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38188,
+      "category": "Glaces glacées ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36346,
+      "category": "Action de grâces ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36582,
+      "category": "Signets ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37635,
+      "category": "Mi-temps ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36637,
+      "category": "Factures ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36692,
+      "category": "Yankees ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36700,
+      "category": "Soupe ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37810,
+      "category": "Chanteuses ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37072,
+      "category": "Fausses maladies ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37828,
+      "category": "Mariages ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 38126,
+      "category": "31ème État ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37795,
+      "category": "Jeux de société ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37856,
+      "category": "Premier baiser ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37733,
+      "category": "Des scélérats ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37792,
+      "category": "Animateurs de talk-shows ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37864,
+      "category": "Collège ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 37592,
+      "category": "Ces pommes ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36696,
+      "category": "Vacances ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 36758,
+      "category": "Terrains de jeux ",
+      "type": "open"
+    },
+    {
+      "x": false,
+      "id": 39151,
+      "category": "Toms ",
+      "type": "open"
+    },
+    {
+      "x": true,
+      "id": 35914,
+      "category": "Partage du lit",
+      "type": "open"
+    }
+  ]
+}

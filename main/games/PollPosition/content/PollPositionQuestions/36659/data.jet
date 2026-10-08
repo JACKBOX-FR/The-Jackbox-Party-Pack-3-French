@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "77",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont, en ce moment même, plus de cinq aimants sur leur réfrigérateur ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous actuellement plus de cinq aimants sur votre réfrigérateur ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Décor d'électroménager. Encombrement excessif. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "508368_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "508366_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

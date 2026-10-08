@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "pas de nez | ton nez est parti | le nez est parti ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "J'avais un cousin sans nez. Maintenant, vous êtes censé dire « comment sentait-il ? » Et je dis « Terrible ! » Hahaha... bref, passons à autre chose. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un signe que tu as un mauvais travail de nez ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "472176_1 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "472174_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

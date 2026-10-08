@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "25",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Lors de la cuisson de hot-dogs, quel pourcentage de personnes les passent généralement au micro-ondes (au lieu de les griller ou de les faire bouillir) ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Faire bouillir ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Micro-ondes ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous cuisinez des hot-dogs, les faites-vous généralement griller, bouillir ou passer au micro-ondes ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Griller ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Préparation du Frankfurter. Exposition aux radiations. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496128_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

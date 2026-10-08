@@ -1,0 +1,87 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "37",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont mangé des tater tots au cours du mois dernier ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Il y a de nombreuses années. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Au cours des six derniers mois. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Au cours des deux dernières années. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quand remonte la dernière fois que vous avez mangé un tater tot ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Le mois dernier. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Amidon cylindrique frit. Indulgence récente. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496987_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

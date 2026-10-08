@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "79",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Entre <i>The Hunger Games</i>, <i>Twilight</i> et <i>Insurgent</i>, quel pourcentage de personnes préfèrent <i>The Hunger Games</i> ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Crépuscule</i> ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "<i>Insurgé</i> ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quelle série Young Adult préférez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les jeux de la faim</i> ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Paraboles de la puberté. Littérature populaire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528414_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

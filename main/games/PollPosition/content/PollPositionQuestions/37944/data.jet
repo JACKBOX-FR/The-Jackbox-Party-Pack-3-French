@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "76",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ne savaient PAS que le camionnage sur route de glace était une pratique pratiquée avant la diffusion de l'émission de téléréalité ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance du trafic haut débit ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Saviez-vous que le camionnage sur route de glace était une profession avant la diffusion de l'émission de téléréalité <i>Ice Road Truckers</i> ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Petits boulots. Des carrières arctiques inconnues. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "528619_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528617_3 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "528620_1 ",
+      "n": "Intro"
+    }
+  ]
+}

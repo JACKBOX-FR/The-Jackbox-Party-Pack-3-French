@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "42",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes NE PEUVENT PAS lire dans des véhicules en mouvement sans se sentir nauséeux ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous êtes passager dans une voiture en mouvement, vous sentez-vous mal à l’aise en baissant les yeux pour lire ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Nausées véhiculaires. Lire dans les voitures. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527868_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

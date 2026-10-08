@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "tu es adopté|ton adopté ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Si seulement il avait dit que tu étais adoptée AVANT d’accepter de te lever à 4 heures du matin. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Votre voyage de pêche avec votre père se déroulait très bien jusqu'à ce qu'il pose sa canne, tourne la tête et dise <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "480092_1 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "480090_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

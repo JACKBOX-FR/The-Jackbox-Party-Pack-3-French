@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "58",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent faire l’expérience du karaoké simplement en tant que spectateurs plutôt qu’en tant que chanteurs ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "En tant qu'interprète ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Comment préférez-vous vivre l’expérience du karaoké ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "En tant que membre du public ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Participation au karaoké. Rôles préférés. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497023_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497021_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

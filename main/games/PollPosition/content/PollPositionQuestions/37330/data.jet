@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "29",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes possèdent actuellement chez elles au moins une bouteille d’alcool d’une valeur de plus de 50 dollars ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous actuellement une bouteille d'alcool d'une valeur de plus de 50 $ chez vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Des goûts exigeants. Ivresse hors de prix. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "519970_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "519973_1 ",
+      "n": "Intro"
+    }
+  ]
+}

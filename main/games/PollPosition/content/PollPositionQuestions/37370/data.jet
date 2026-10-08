@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "35",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes utilisent le plus souvent du papier toilette pour se moucher ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Mouchoirs en papier ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Imagerie satellite ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Papier toilette ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Dans quoi vous mouchez-vous le plus souvent ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Mouchoir ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Élimination des mucosités. Toile carrée. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520552_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

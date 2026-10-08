@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Pointing",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Montrez la personne que vous pensez être la plus capable de commettre un meurtre. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542270_0 ",
+      "n": "Task"
+    }
+  ]
+}

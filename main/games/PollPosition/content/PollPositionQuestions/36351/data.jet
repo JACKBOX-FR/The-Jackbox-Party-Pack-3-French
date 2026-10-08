@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "50",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes possèdent des porte-maïs ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Possédez-vous des porte-maïs ? Vous savez, les petites poignées que vous collez aux extrémités des épis de maïs ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ustensiles de cuisine. Lié au maïs. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "501244_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501242_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

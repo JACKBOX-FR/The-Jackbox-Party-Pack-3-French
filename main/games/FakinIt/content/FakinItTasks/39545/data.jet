@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la grimace que vous faites lorsque votre bande de marginaux a battu les enfants riches dans une partie de softball et sauvez la patinoire. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541440_0 ",
+      "n": "Task"
+    }
+  ]
+}

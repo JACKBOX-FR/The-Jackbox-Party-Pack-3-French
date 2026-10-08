@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "86",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes utilisent une grammaire appropriée lors de la rédaction de messages texte ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage des données électroniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Utilisez-vous une grammaire appropriée lorsque vous rédigez des messages texte ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Communication électronique. Conscience grammaticale. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "506333_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "506331_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

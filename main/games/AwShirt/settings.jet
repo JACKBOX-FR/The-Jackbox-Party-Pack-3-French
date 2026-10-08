@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "AwShirtSettingsWidget",
+    "items": [
+        {
+            "title": "Volume",
+            "type": "Range",
+            "clip": "AwShirtSliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Rendez le jeu FORT ou SILENCIEUX."
+        },
+        {
+            "title": "Fullscreen",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Faites en sorte que le jeu occupe le plein écran."
+        },
+        {
+            "title": "Quick Training",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtQuickTraining",
+            "description": "Les joueurs tirent trois fois au lieu de quatre et le temps d'écriture est plus court. Idéal pour les jeux en streaming."
+        },
+        {
+            "title": "Audience",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceOn",
+            "description": "Activez-le pour permettre à des non-joueurs de rejoindre et d'influencer le jeu."
+        },
+        {
+            "title": "Audience Suggestions",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceSuggestions",
+            "description": "Pendant que les joueurs dessinent et écrivent, le public peut saisir des suggestions qui apparaissent à l'écran."
+        },
+        {
+            "title": "Extended Timers",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtExtendedTimers",
+            "description": "Activez des minuteries très longues. Recommandé uniquement pour les jeux en streaming."
+        },
+        {
+            "title": "Require Twitch",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtRequireTwitch",
+            "description": "Exiger que les joueurs soient connectés à Twitch pour rejoindre le jeu. Recommandé uniquement pour les jeux en streaming."
+        },
+        {
+            "title": "Manual Censoring",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtCensorable",
+            "description": "Permet au VIP (premier joueur entré) de censurer les réponses des joueurs."
+        },
+        {
+            "title": "Start Game from Controller Only",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtGamepadStart",
+            "description": "Les jeux doivent être démarrés avec la manette et non à partir des appareils des joueurs."
+        },
+        {
+            "title": "Allow Room Code Hiding",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtHideRoomCode",
+            "description": "Autorisez le masquage du code de la salle pour empêcher les joueurs de s'inscrire plus tôt. Recommandé uniquement pour les jeux en streaming."
+        }
+    ]
+}

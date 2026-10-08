@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "86",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont réussi des trous d’un coup lors d’une partie de golf miniature ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà réussi un trou d'un coup au golf miniature ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Succès à petite échelle. Coups minimaux. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "522342_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "522340_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "522343_1 ",
+      "n": "Intro"
+    }
+  ]
+}

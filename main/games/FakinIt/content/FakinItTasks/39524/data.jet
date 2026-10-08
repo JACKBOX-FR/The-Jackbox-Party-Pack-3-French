@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la grimace que vous feriez si vous sautiez d’un gâteau. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541398_0 ",
+      "n": "Task"
+    }
+  ]
+}

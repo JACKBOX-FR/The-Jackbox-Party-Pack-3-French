@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Hands",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez la main si vous avez déjà menti sur la personne pour laquelle vous avez voté.",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "540872_0 ",
+      "n": "Task"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "85",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes crient au moins occasionnellement devant leur téléviseur ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Est-ce qu'il vous arrive de crier sur votre télé ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Déclenché par la télévision. Provoqué à crier. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520159_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520157_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

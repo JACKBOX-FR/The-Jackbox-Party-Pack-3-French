@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "43",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu’ils consomment une boisson en canette, quel pourcentage de personnes manipulent généralement le petit truc qui se trouve sur le dessus de la canette, mais ne l’enlèvent pas ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je le manipule, mais il reste généralement allumé. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de téléphone portable ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Non, je le laisse tranquille. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous buvez une boisson en conserve, retirez-vous habituellement ce petit truc qui se trouve sur le dessus de la canette ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Oui. Je dois. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Manipulation de canettes. Dépose des accessoires en aluminium. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "517849_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517847_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

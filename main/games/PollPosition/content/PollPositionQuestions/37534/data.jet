@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "44",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes possèdent une collection de produits de bain qu’ils ont achetés dans des hôtels ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous une collection de produits de bain que vous avez récupérés dans des hôtels ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Thésaurisation de l'hospitalité. Gels de bain miniatures. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "522665_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "522663_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

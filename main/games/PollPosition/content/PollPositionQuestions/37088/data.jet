@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "59",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Femelles ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de femmes ont porté des bagues d’orteil ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Femmes : Avez-vous déjà porté une bague d'orteil ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Des chiffres de pied éblouis. Des choix de mode. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "517198_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "517196_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

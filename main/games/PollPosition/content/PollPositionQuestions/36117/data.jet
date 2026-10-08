@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes, lorsqu’elles se brossent les dents, font couler le robinet en continu ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "L’eau coule jusqu’à ce que j’aie fini. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous vous brossez les dents, le robinet coule-t-il en permanence ou le fermez-vous au moins par intermittence ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Je l'éteins pendant le processus. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Préservation de l'eau. Lié à l'hygiène.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "495977_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "495975_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

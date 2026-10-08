@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont plus satisfaites du balayage que du passage de l’aspirateur ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Balayage ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Biométrie ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "De quoi vous procurez-vous le plus de satisfaction ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Passer l'aspirateur ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Satisfaction de l'entretien des sols. Balais contre aspirateurs. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "527354_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527352_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

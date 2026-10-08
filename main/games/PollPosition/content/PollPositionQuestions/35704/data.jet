@@ -1,0 +1,87 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "19",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes rincent le shampoing de leurs cheveux tout en faisant face au jet de douche (au lieu de lui tourner le dos ou d'être directement en dessous) ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je prends des bains, pas des douches. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Face aux embruns. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Directement sous le spray. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Comment rincer le shampoing de vos cheveux sous la douche ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Face aux embruns. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Enlèvement du shampooing. Confrontation par pulvérisation. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "482932_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

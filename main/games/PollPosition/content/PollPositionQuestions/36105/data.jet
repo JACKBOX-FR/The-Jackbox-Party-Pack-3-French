@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes, lorsqu'elles utilisent les toilettes publiques, choisissent normalement de s'accroupir sans toucher le siège ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je m'accroupis sans toucher le siège. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de toilette ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Je m'assois directement sur le siège. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Comment vous préparez-vous normalement à utiliser les toilettes publiques ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Je place du papier toilette ou une housse de siège sur le siège. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Habitudes de bio-pause. Toilettes publiques. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "495337_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "495335_3 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "495338_1 ",
+      "n": "Intro"
+    }
+  ]
+}

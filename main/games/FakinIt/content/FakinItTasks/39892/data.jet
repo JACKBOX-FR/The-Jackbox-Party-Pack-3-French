@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Hands",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez la main si vous n'aimez pas les chiens. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542230_0 ",
+      "n": "Task"
+    }
+  ]
+}

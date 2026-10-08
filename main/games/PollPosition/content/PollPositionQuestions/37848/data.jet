@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "58",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont regardé un film ou une vidéo sur la fabrication des nuggets de poulet, mais les ont quand même mangées ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà regardé un film ou une vidéo sur la fabrication des nuggets de poulet, mais les avez quand même mangés ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Volaille séparée mécaniquement. Modification du régime alimentaire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "527182_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527180_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

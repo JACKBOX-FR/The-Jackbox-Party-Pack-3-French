@@ -1,0 +1,79 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "57",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes pensent que Lee Harvey Oswald n’a PAS agi seul dans l’assassinat de JFK ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Non, je suis presque certain qu’il y en avait d’autres impliqués. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage des données électroniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Pensez-vous que Lee Harvey Oswald a agi seul dans la planification et le tournage de JFK ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Oui, je suis presque sûr que c'est le cas. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Théories du meurtre de JFK. Probabilité de complot. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480264_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480262_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "480265_1",
+      "n": "Intro"
+    }
+  ]
+}

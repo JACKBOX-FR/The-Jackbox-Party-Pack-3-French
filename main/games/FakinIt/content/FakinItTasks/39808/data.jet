@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez un nombre de doigts qui est également un nombre premier. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541966_0 ",
+      "n": "Task"
+    }
+  ]
+}

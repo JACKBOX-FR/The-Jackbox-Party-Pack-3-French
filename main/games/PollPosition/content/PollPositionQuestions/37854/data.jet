@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont contacté des avocats dont ils ont entendu parler dans les publicités télévisées ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Écoutes téléphoniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà contacté un avocat dont vous avez entendu parler dans une publicité télévisée ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Aide juridique. Annonces de cabinets d'avocats. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "527284_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527282_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "527285_1 ",
+      "n": "Intro"
+    }
+  ]
+}

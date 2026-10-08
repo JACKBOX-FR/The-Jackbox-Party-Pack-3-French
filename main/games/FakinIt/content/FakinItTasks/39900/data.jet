@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la grimace que vous auriez en regardant un film cochon avec vos parents. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542246_0 ",
+      "n": "Task"
+    }
+  ]
+}

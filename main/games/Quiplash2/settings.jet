@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "Quiplash2SettingsWidget",
+    "items": [
+        {
+            "title": "Volume",
+            "type": "Range",
+            "clip": "Quiplash2SliderWidget",
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Rendez le jeu FORT ou SILENCIEUX."
+        },
+        {
+            "title": "Fullscreen",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Faites en sorte que le jeu occupe le plein écran."
+        },
+        {
+            "title": "Audience",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2AudienceOn",
+            "description": "Activez-le pour permettre à des non-joueurs de rejoindre et d'influencer le jeu."
+        },
+        {
+            "title": "Audience Play-Along",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2AudiencePlayAlong",
+            "description": "Pendant que les joueurs tapent leurs réponses, le public peut saisir ses propres réponses qui apparaissent à l'écran."
+        },
+        {
+            "title": "Extended Timers",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2ExtendedTimers",
+            "description": "Activez des minuteries très longues. Recommandé uniquement pour les jeux en streaming."
+        },
+        {
+            "title": "Family-Friendly Filter",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2FamilyFriendly",
+            "description": "Activez-le pour éviter le contenu le plus provocateur... du jeu. Nous ne pouvons pas contrôler les joueurs."
+        },
+        {
+            "title": "Require Twitch",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2RequireTwitch",
+            "description": "Exiger que les joueurs soient connectés à Twitch pour rejoindre le jeu. Recommandé uniquement pour les jeux en streaming."
+        },
+        {
+            "title": "Manual Censoring",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2Censorable",
+            "description": "Permet au VIP (premier joueur entré) de censurer les réponses des joueurs."
+        },
+        {
+            "title": "Start Game from Controller Only",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2GamepadStart",
+            "description": "Les jeux doivent être démarrés avec la manette et non à partir des appareils des joueurs."
+        },
+        {
+            "title": "Allow Room Code Hiding",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "width": 1,
+            "source": "Quiplash2HideRoomCode",
+            "description": "Autorisez le masquage du code de la salle pour empêcher les joueurs de s'inscrire plus tôt. Recommandé uniquement pour les jeux en streaming."
+        }
+    ]
+}

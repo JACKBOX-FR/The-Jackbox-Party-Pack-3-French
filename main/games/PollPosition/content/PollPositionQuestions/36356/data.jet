@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "51",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de convives sont incapables de se souvenir des spécialités du restaurant immédiatement après que les serveurs les ont récitées ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Implantation secrète ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous généralement capable de vous souvenir des offres spéciales immédiatement après qu'un serveur les a récitées ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Éléments de menu à court terme, mémoire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501327_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

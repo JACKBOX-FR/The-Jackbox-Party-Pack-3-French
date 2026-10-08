@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez autant de doigts que d’applications de réseaux sociaux que vous avez sur votre téléphone. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541926_0 ",
+      "n": "Task"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "54",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Population générale ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes mariées ont embrassé leur conjoint au cours de la semaine dernière ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Il y a plus d'un an. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Le mois dernier. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Implantation secrète ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "L’année dernière. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Personnes mariées : à quand remonte la dernière fois que vous avez embrassé votre conjoint ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "La semaine dernière. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Les couples mariés. Enchevêtrements oraux romantiques. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "518880_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "518878_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "518881_2 ",
+      "n": "Intro"
+    }
+  ]
+}

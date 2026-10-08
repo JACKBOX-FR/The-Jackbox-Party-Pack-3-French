@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "36",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Population générale ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont sorties avec quelqu’un qui était déjà sorti avec un de leurs bons amis ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous sorti avec quelqu'un qui était déjà sorti avec un bon ami ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Recirculation des ex-amants. Deuxième chance. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "493241_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493239_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

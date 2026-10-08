@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "55",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont été sérieusement excitées par des personnages de dessins animés ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Biométrie ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà été sérieusement excité par un personnage de dessin animé ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Personnages fictifs. Véritable titillation. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499517_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499515_2",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

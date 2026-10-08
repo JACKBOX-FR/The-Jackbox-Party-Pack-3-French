@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "30",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de numéro est la partie préférée des gens dans un cirque ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel type de numéro préférez-vous dans un cirque ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Trapèze ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Animaux ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Actes magiques ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Aucun ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Apprivoiser le lion ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Clowns ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Éléphants ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Acrobaties ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Corde raide ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "524883_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

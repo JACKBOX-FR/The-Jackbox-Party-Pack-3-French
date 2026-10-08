@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "À un passage pour piétons, quel pourcentage de personnes attendent toujours, sans exception, un signal « Marcher » avant de traverser ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Drone aérien ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "À un passage pour piétons, attendez-vous absolument toujours un signal « Marcher » avant de traverser la rue ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Traversée d'avenue. Propension au Jaywalking. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499654_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499652_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

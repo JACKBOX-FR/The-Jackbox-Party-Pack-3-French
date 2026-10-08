@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "64",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de piétons rédigent des SMS en marchant ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "J'arrête de marcher, puis j'envoie un message. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Drone aérien ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Comment envoyez-vous habituellement des SMS en déplacement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "J'envoie des SMS en marchant. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "L'inconscience du 21e siècle. Messagerie ambulatoire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493044_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

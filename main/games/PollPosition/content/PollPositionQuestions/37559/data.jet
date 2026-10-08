@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes déclarent leurs déclarations annuelles à la dernière minute, un jour ou deux après la date limite ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Généralement quelques semaines ou plus avant la date limite. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Logiciels espions ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Dernière minute, à un jour ou deux de la date limite. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quand déposez-vous habituellement vos impôts ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Immédiatement, dès réception de toute la documentation. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Procrastination de capitulation de l’IRS. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "523013_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "523011_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

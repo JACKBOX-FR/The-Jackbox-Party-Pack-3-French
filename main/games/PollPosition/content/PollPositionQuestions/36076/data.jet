@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ignorent généralement les pailles des restaurants et boivent directement au verre ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je bois directement au verre. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quand une boisson au restaurant est servie avec une paille, que faites-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "J'utilise la paille. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Prédilection à ne pas sucer. Rejet de la paille. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "494512_2 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494510_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "77",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes se sentent à l’aise d’être nues dans des pièces extérieures à leur chambre ou à leur salle de bain lorsqu’elles sont seules à la maison ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Implantation secrète ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous à l’aise d’être nu dans des pièces extérieures à votre chambre ou à votre salle de bain lorsque vous êtes seul à la maison ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Nudité à la maison. Niveau de confort. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "482747_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "482745_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

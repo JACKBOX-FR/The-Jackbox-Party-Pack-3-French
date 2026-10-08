@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la grimace que vous feriez dans un bain à remous. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541506_0 ",
+      "n": "Task"
+    }
+  ]
+}

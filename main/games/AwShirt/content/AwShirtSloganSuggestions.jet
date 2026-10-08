@@ -1,0 +1,1270 @@
+{
+  "episodeid": 1266,
+  "content": [
+    {
+      "suggestion": "La seule question que tu poserais au vieux sage au sommet de la montagne ",
+      "id": 40934,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'on entend toujours dire par un millénaire ",
+      "id": 40176,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'on verrait sur un panneau publicitaire au Texas ",
+      "id": 40177,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous verriez sur une affiche inspirante ",
+      "id": 40181,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une fortune donnée par une Magic 8 Ball ",
+      "id": 40185,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous diriez pendant une partie de Donjons et Dragons ",
+      "id": 40192,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez entendre dans un parc à thème Harry Potter ",
+      "id": 40193,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une ligne que vous aimeriez pouvoir mettre sur vos cartes de visite ",
+      "id": 40198,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une ligne que vous aimeriez avoir sur votre pierre tombale ",
+      "id": 40201,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Des paroles qui pourraient provenir d’un album des Beach Boys ",
+      "id": 40204,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La première ligne que tu aurais dans ton autobiographie ",
+      "id": 40205,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous entendriez à la Convention nationale républicaine ",
+      "id": 40206,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un pirate dit probablement beaucoup ",
+      "id": 41094,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une ligne que vous auriez sur votre profil de rencontre en ligne ",
+      "id": 40207,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une courte ligne qui décrit <i>L'incroyable famille Kardashian</i> ",
+      "id": 40208,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un homme des cavernes dirait ",
+      "id": 40209,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un terrible chauffeur de taxi dirait ",
+      "id": 40308,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau d'avertissement que vous verriez dans le métro ",
+      "id": 40309,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une ligne que vous verriez sur un biscuit chinois ",
+      "id": 40310,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un jeu de mots terrible ",
+      "id": 40311,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quel serait le slogan de votre biopic ",
+      "id": 40313,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un terrible juge dirait ",
+      "id": 40314,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Votre ligne de prédilection pour gagner une dispute ",
+      "id": 40315,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La première chose que tu entendras en arrivant au paradis ",
+      "id": 40316,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous ne voulez pas entendre dire par un directeur de pompes funèbres ",
+      "id": 40317,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Votre slogan de campagne si vous êtes candidat à la présidence",
+      "id": 40318,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous souhaiteriez que votre citation de l'annuaire du lycée soit ",
+      "id": 40321,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous entendriez dans un discours d'ouverture à l'université ",
+      "id": 40322,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que Garfield dirait ",
+      "id": 40323,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu dirais pour attirer l'attention de tout le monde ",
+      "id": 40324,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce qu'un chanteur de lounge pourrait dire ",
+      "id": 40327,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La phrase que vous verriez sur un t-shirt de touriste ringard à Flordia ",
+      "id": 40328,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous diriez à Benedict Cumberbatch ",
+      "id": 40329,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que Deadpool dirait probablement ",
+      "id": 40330,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous diriez lors d’un entretien d’embauche ",
+      "id": 40331,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous entendez toujours dire par un représentant du service client ",
+      "id": 40334,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Votre position sur la politique ",
+      "id": 40335,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que tu entendrais crier un sauveteur incompétent ",
+      "id": 40336,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que dirait un bûcheron impertinent ",
+      "id": 40338,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Que diriez-vous pour faire cracher de l'eau à quelqu'un ",
+      "id": 40340,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un avertissement dans une publicité pharmaceutique ",
+      "id": 40706,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu diras sur ton lit de mort ",
+      "id": 40707,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous diriez en tant que négociateur en otage ",
+      "id": 40709,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un entraîneur de basket crie ",
+      "id": 40710,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Que pourriez-vous dire pour vous appeler un animal de compagnie ",
+      "id": 40711,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que peut dire l'intérieur d'une carte de sympathie ",
+      "id": 40712,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un enseignant de 3e année pourrait dire à une classe ",
+      "id": 40713,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'une mauvaise baby-sitter dit ",
+      "id": 40714,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Que pourriez-vous dire lorsque vous verrez que vous recevez une contravention de stationnement ",
+      "id": 40715,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez entendre dire par un juge lors d’une exposition canine ",
+      "id": 40716,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous entendriez dans un publi-reportage ",
+      "id": 40718,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Que dirait un chat s'il pouvait parler ",
+      "id": 40720,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un médecin pourrait dire avant de vous traiter ",
+      "id": 40721,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que dirait une personne dégoûtante après être allée aux toilettes ",
+      "id": 40722,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelle mauvaise université R.A. dit ",
+      "id": 40723,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Le titre d'une chanson country hokey ",
+      "id": 40724,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Des conseils que vous auriez aimé recevoir plus tôt dans la vie ",
+      "id": 40725,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez dire immédiatement si vous voyiez un cambrioleur ",
+      "id": 40726,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu dis en bavardant",
+      "id": 40727,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un employé de la restauration rapide a beaucoup à dire ",
+      "id": 40728,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un météorologue pourrait dire à la télévision ",
+      "id": 40729,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un commentateur de football dirait ",
+      "id": 40730,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une note que ta mère mettrait dans ton repas scolaire ",
+      "id": 40731,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que dit un adorable bambin ",
+      "id": 40732,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous entendriez sur le haut-parleur d'une épicerie ",
+      "id": 40733,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelle terrible muse te dirait ",
+      "id": 40734,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu dis lors d'une rupture ",
+      "id": 40736,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un nerd contrarié pourrait dire ",
+      "id": 40738,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un photographe de famille pourrait dire ",
+      "id": 40739,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un super méchant sur le point de gagner pourrait dire ",
+      "id": 40741,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une chose inspirante à crier après les gens qui courent un marathon ",
+      "id": 40742,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez entendre crier quelqu'un qui joue à Pokémon ",
+      "id": 40744,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez dire à quelqu'un qui parle pendant un film ",
+      "id": 40745,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez crier lors d'un concert de votre groupe préféré ",
+      "id": 40747,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que tu pourrais demander à un ange ",
+      "id": 40748,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez voir écrit dans une cabine de salle de bain ",
+      "id": 40749,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez lire sur un coupon ",
+      "id": 40751,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous pourriez entendre lors d’un exercice d’incendie ",
+      "id": 40752,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez entendre dire par un entraîneur personnel ",
+      "id": 40753,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez entendre dire par un politicien ",
+      "id": 40755,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La première chose à laquelle tu penses la plupart du temps ",
+      "id": 40836,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une question que vous poseriez au président ",
+      "id": 40837,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une ligne mélodramatique ",
+      "id": 40838,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez dire à un plombier ",
+      "id": 40840,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un policier pourrait vous demander ",
+      "id": 40841,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que l'on pourrait lire sur la boîte d'un jeu de société ",
+      "id": 40842,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un surnom que vous pourriez donner à un sportif du lycée",
+      "id": 40843,
+      "type": "Canned Slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez dire pendant un massage ",
+      "id": 40844,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau d'avertissement que quelqu'un pourrait placer devant sa maison ",
+      "id": 40845,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une chose courte et motivante qu'un entraîneur pourrait dire ",
+      "id": 40846,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu dirais en te fiançant ",
+      "id": 40847,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un barbier/coiffeur pourrait vous demander ",
+      "id": 40849,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous pourriez entendre au tribunal ",
+      "id": 40850,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une pancarte que vous pourriez voir près d’une cabine d’essayage dans un magasin de vêtements ",
+      "id": 40852,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La punchline de votre blague préférée ",
+      "id": 40853,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez lire sur une bouteille de détergent à lessive ",
+      "id": 40854,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un chahuteur pourrait crier lors d'une émission d'humour ",
+      "id": 40855,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez lire à la bibliothèque ",
+      "id": 40856,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un enfant pourrait crier lors d'un long voyage en voiture ",
+      "id": 40858,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un slogan pour un fast-food ",
+      "id": 40859,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez lire dans un parc national ",
+      "id": 40860,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Conseils que vous pourriez entendre d’une personne en très bonne santé ",
+      "id": 40861,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un sorcier pourrait dire à un autre ",
+      "id": 40862,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu as crié dans la circulation ",
+      "id": 40865,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous verriez dans un parc aquatique ",
+      "id": 40866,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un professeur de gym dirait ",
+      "id": 40867,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez entendre un agent de bord dire ",
+      "id": 40868,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que peut dire la ligne d'objet d'un courrier indésirable ",
+      "id": 40869,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez lire sur une plage populaire ",
+      "id": 40870,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un sauveteur en dit probablement beaucoup ",
+      "id": 40871,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce qu'on peut lire sur un paquet de burgers végétariens ",
+      "id": 40872,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez entendre dire dans une église du Sud ",
+      "id": 40873,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un astronaute paniqué pourrait dire",
+      "id": 40874,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Le titre de votre chanson préférée des années 90 ",
+      "id": 40875,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez lire sur les instructions des meubles ",
+      "id": 40876,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que Justin Bieber en colère pourrait dire ",
+      "id": 40877,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une mauvaise chose à entendre lorsque vous êtes à la banque ",
+      "id": 40878,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que les gens disent probablement en visitant le mont Rushmore ",
+      "id": 40879,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose de mal à vous dire pour un chauffeur Uber ",
+      "id": 40880,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un cinglé pourrait crier dans le métro ",
+      "id": 40881,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez lire au zoo ",
+      "id": 40882,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez lire sur une banderole arborée par un avion ",
+      "id": 40883,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Que pourrait dire un braqueur de banque après « C’est un hold-up ! » ",
+      "id": 40884,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La devise de n’importe quel État, du mieux que vous vous en souveniez ",
+      "id": 40885,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un pilote pourrait dire avant l'atterrissage ",
+      "id": 40886,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un avertissement que vous pourriez entendre dans un bulletin routier du matin ",
+      "id": 40887,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un slogan de super-héros ",
+      "id": 40888,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que les gens des années 60 disaient probablement beaucoup ",
+      "id": 40889,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce qu'une enseignante de maternelle a probablement à dire ",
+      "id": 40890,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez entendre crier dans un bar de plongée ",
+      "id": 40891,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une question que l'on pose souvent à l'aéroport ",
+      "id": 40892,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une citation célèbre de n’importe quel président ",
+      "id": 40893,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous entendez généralement un enfant crier en public ",
+      "id": 40894,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que vous pourriez entendre dire par une méchante fille à l'école ",
+      "id": 40895,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qui pourrait vous être demandé lors de l'obtention d'un permis de conduire ",
+      "id": 40897,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tous les enfants demandent à leurs parents ",
+      "id": 40898,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Conseils que vous avez reçus d'un parent ",
+      "id": 40899,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu pourrais dire quand tu verras le Grand Canyon ",
+      "id": 40900,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez entendre Batman dire ",
+      "id": 40901,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un serveur ou une serveuse pourrait demander ",
+      "id": 40902,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez entendre d'un concessionnaire automobile ",
+      "id": 40903,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez entendre dans un magasin de bandes dessinées ",
+      "id": 40905,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez lire au Smithsonian ",
+      "id": 40906,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez voir dans la salle de repos de votre entreprise ",
+      "id": 40907,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Deux mots que vous pourriez lire sur un paquet de chewing-gum ",
+      "id": 40908,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que quelqu'un pourrait dire chez Starbucks",
+      "id": 40909,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un adolescent pourrait crier lors d'un concert de Justin Bieber ",
+      "id": 40910,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une déclaration que l’on attendrait de Kanye West ",
+      "id": 40911,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous pourriez dire lors d'une cérémonie de mariage ",
+      "id": 40912,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un court texte que vous avez récemment envoyé ",
+      "id": 40913,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une chose courante à dire à Noël ",
+      "id": 40914,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez lire dans un parking ",
+      "id": 40915,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez voir lors d'un match de football ",
+      "id": 40918,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un théoricien du complot dirait ",
+      "id": 40919,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'on s'attendrait à ce que Harry Potter dise ",
+      "id": 40920,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous ne voulez pas entendre dans une grotte ",
+      "id": 40921,
+      "type": "Drawing Suggestion"
+    },
+    {
+      "suggestion": "Ce que les gens de Los Angeles disent souvent ",
+      "id": 40922,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quel serait votre slogan si vous étiez un lutteur professionnel ",
+      "id": 40923,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que tu dirais pour sortir d'un rendez-vous ",
+      "id": 40924,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un chant de pom-pom girl ",
+      "id": 40925,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous dites sur un talkie-walkie ",
+      "id": 40926,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que pense probablement Mona Lisa ",
+      "id": 40927,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose que vous ne voulez pas entendre le président dire ",
+      "id": 41089,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un jeu de mots ringard qu’un dentiste ferait ",
+      "id": 40928,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une question que vous pourriez poser dans une pharmacie ",
+      "id": 41088,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'on pourrait entendre lors d'une fête d'anniversaire ",
+      "id": 41090,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase qu'un vendeur crie lors d'un jeu de balle ",
+      "id": 40929,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quels pourraient être tes derniers mots ",
+      "id": 40930,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un gars musclé pourrait dire dans une salle de sport ",
+      "id": 41092,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce qu'un chuchoteur de chien dit aux chiens ",
+      "id": 40931,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce à quoi pense probablement la Statue de la Liberté ",
+      "id": 40932,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu cries sur des montagnes russes ",
+      "id": 40935,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "C'est bizarre à dire pour une poupée ",
+      "id": 40933,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Votre excuse incontournable pour manquer le travail ",
+      "id": 40936,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un avocat dit ",
+      "id": 40937,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un guide touristique dirait ",
+      "id": 40938,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La dernière chose que vous voudriez entendre votre médecin dire ",
+      "id": 40939,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "La dernière chose que vous voudriez entendre votre coiffeur dire ",
+      "id": 40940,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que Lisa Frank a probablement sur son lit ",
+      "id": 40941,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un agriculteur dirait",
+      "id": 40942,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une chose amusante à crier lors d'une fête ",
+      "id": 40943,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce qu'un bébé impertinent pourrait dire ",
+      "id": 40944,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un barman pourrait dire quand il se fait tard ",
+      "id": 40979,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce qu'on pourrait vous demander lors d'un lavage de voiture ",
+      "id": 40980,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Votre slogan préféré dans une céréale pour petit-déjeuner ",
+      "id": 40981,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Conseils que vous pourriez recevoir d'un grand-parent ",
+      "id": 40976,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Un panneau que vous pourriez voir à une caisse enregistreuse ",
+      "id": 40977,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que l'on peut lire sur une étiquette de chemise ",
+      "id": 40982,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que votre dentiste pourrait dire ",
+      "id": 40984,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose qu'on pourrait entendre à Paris ",
+      "id": 40993,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'on pourrait dire en faisant un accent australien ",
+      "id": 40994,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose qu'un vampire pourrait te dire ",
+      "id": 40995,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une punchline à une vieille blague ",
+      "id": 40997,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose qu'un sauveteur pourrait dire ",
+      "id": 40998,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "c'est terrible à dire pour un jeune enfant ",
+      "id": 40999,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une question que l'on pourrait poser lors d'un entretien d'embauche ",
+      "id": 41000,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose que l'on pourrait dire en commandant du café ",
+      "id": 41001,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une affiche que vous pourriez lire à la bibliothèque ",
+      "id": 41002,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "un panneau routier que vous pourriez voir sur l'autoroute ",
+      "id": 41003,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "le titre d'une chanson pour enfants ",
+      "id": 41004,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce que vous pouvez dire à votre enfant lorsqu'il se comporte mal ",
+      "id": 41081,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "un ordre que vous pourriez crier à un chien ",
+      "id": 41082,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un détective pourrait dire sur une scène de crime ",
+      "id": 41083,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose a crié lors d'un match de lutte ",
+      "id": 41084,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Les paroles d'une vieille chanson rock ",
+      "id": 40945,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une réplique qui pourrait provenir d’une chanson de Taylor Swift ",
+      "id": 40947,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "C'est une bonne chose d'écrire avec du ciment humide ",
+      "id": 40948,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un prêtre entend beaucoup pendant la confession ",
+      "id": 40949,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'un clown dit",
+      "id": 40950,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que dit l'homme le plus intéressant du monde ",
+      "id": 40951,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase que vous entendriez lors d'un carnaval ",
+      "id": 40952,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous crieriez lors d'un Mardi Gras à la Nouvelle-Orléans ",
+      "id": 40953,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une phrase d'un mauvais discours d'encouragement ",
+      "id": 40954,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Une ligne des droits de Miranda ",
+      "id": 40955,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Ce que dirait une mauvaise dirigeante des Girl Scouts ",
+      "id": 40956,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que vous vous attendez à entendre dans Game of Thrones ",
+      "id": 40959,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "un mensonge commun ",
+      "id": 41111,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce que vous pourriez dire à un télévendeur ennuyeux ",
+      "id": 41112,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un guide touristique de musée en dit probablement beaucoup ",
+      "id": 41113,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une affiche de motivation que vous avez vue récemment ",
+      "id": 41115,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un chuchoteur de cheval murmure habituellement ",
+      "id": 41116,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un arbitre de football pourrait crier pendant un match ",
+      "id": 41117,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un mécanicien pourrait te dire ",
+      "id": 41118,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un météorologue maladroit pourrait dire ",
+      "id": 41119,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un grand joueur pourrait dire ",
+      "id": 41120,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'on pourrait entendre lors d'un square dance ",
+      "id": 41121,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce que vous pourriez entendre Snoop Dogg dire ",
+      "id": 41122,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ta chanson de vacances préférée ",
+      "id": 41123,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'on pourrait crier pour effrayer un cambrioleur ",
+      "id": 41124,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une ligne de dialogue que vous pourriez entendre dans un feuilleton ",
+      "id": 41125,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une question que vous pourriez poser dans une station-service ",
+      "id": 41126,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce à quoi on pourrait s'attendre à ce qu'un New-Yorkais crie ",
+      "id": 41127,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'on pourrait s'attendre à ce qu'un Californien dise ",
+      "id": 41128,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose qu'un théoricien du complot pourrait dire ",
+      "id": 41129,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "une commande que vous pourriez donner à un robot",
+      "id": 41131,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose qu'un magicien pourrait dire ",
+      "id": 41136,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un chien qui parle pourrait dire ",
+      "id": 41137,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce que tu pourrais entendre crier sur un ring de boxe ",
+      "id": 41138,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce que vous pourriez entendre lors d'un barbecue de quartier ",
+      "id": 41139,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose qu'un général d'armée pourrait dire ",
+      "id": 41140,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "à quoi pense un marathonien au kilomètre 25 ",
+      "id": 41141,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'une femme en couches pourrait crier ",
+      "id": 41144,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce qu'un auto-stoppeur effrayant pourrait dire ",
+      "id": 41148,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "à quoi pense habituellement un dompteur de lions ",
+      "id": 41149,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "quelque chose qu'un soldat de la guerre civile a probablement dit ",
+      "id": 41152,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce que Colomb a probablement dit en découvrant le Nouveau Monde ",
+      "id": 41147,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "ce que quelqu'un pourrait penser alors que King Kong devient fou ",
+      "id": 41145,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Votre slogan si vous étiez à la télé ",
+      "id": 41238,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'on verrait sur un autocollant de pare-chocs ",
+      "id": 41237,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose qu'on entendrait lors d'une mauvaise fête ",
+      "id": 41236,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que ta mère disait toujours ",
+      "id": 41235,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "Quelque chose que tu dirais lors d'un premier rendez-vous ",
+      "id": 41234,
+      "type": "Suggestion de slogan"
+    },
+    {
+      "suggestion": "un message texte court et romantique",
+      "id": 41130,
+      "type": "Suggestion de slogan"
+    }
+  ]
+}

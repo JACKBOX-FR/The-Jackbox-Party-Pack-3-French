@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "12",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes essaient généralement d’assortir leurs sous-vêtements à leurs tenues ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Essayez-vous habituellement d’assortir vos sous-vêtements à votre tenue ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Pratiques vestimentaires obsessionnelles. Accords de vêtements. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480282_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480280_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

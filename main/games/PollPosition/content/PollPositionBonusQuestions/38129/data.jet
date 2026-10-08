@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "25",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel légume la plupart des gens associent-ils au régime ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "À quel légume pensez-vous quand quelqu’un vous dit « je suis au régime » ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Laitue ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Chou ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Haricots verts ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Épinards ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Choux de Bruxelles ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Chou frisé ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Brocoli",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Céleri ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage du téléphone ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Carottes ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Consommation de fibres. Composant chlorophylle. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530646_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

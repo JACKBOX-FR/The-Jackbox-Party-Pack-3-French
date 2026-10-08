@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "64",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préféreraient être des super-héros qui rétrécissent à un pouce plutôt que ceux qui atteignent 50 pieds ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Rétrécissement ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quel super pouvoir préféreriez-vous avoir : grandir jusqu'à 50 pieds de haut ou rétrécir à un pouce de haut ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Croissance ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Modification spectaculaire de la taille du pantalon. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520261_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520259_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

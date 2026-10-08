@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes consultent presque toujours les étiquettes nutritionnelles lorsqu’elles font leurs courses ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Parfois. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Rarement, voire jamais. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous faites vos courses, à quelle fréquence consultez-vous les étiquettes nutritionnelles ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Presque tout le temps. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Sensibilisation à la santé alimentaire. Lecture d'étiquettes. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "499620_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499618_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "499621_1 ",
+      "n": "Intro"
+    }
+  ]
+}

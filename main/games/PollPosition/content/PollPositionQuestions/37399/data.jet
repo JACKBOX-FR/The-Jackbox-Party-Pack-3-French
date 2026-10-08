@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont, vous savez, posé un panier à linge sur un chat et prétendu qu'il était dans un zoo ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà posé un panier à linge sur un chat et fait comme si il se trouvait dans un zoo ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Confinement félin. Bacs à linge. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520921_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520919_3 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

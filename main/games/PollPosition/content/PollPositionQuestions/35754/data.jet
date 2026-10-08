@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "25",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent que du sang soit prélevé dans leur bras droit ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Bras droit ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Aucune préférence ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Dans quel bras préférez-vous faire une prise de sang ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Bras gauche ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Les énigmes de la phlébotomie. Préférence de bras. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "484002_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

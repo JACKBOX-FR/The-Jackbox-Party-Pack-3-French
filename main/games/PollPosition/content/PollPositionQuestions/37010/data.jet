@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "25",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes consomment plus de la moitié du chili consommé en conserve ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Moins de la moitié ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quelle quantité environ de chili que vous consommez provient d’une boîte de conserve ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Plus de la moitié ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Ragoûts de viande. Conservé ou frais. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "515930_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

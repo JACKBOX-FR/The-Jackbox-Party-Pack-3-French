@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez autant de doigts que de dates dont vous auriez besoin pour appeler quelqu'un comme votre petit ami/petite amie. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541986_0 ",
+      "n": "Task"
+    }
+  ]
+}

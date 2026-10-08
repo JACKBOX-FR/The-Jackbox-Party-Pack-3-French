@@ -1,0 +1,67 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Hommes ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage d’hommes sont devenus visiblement excités sexuellement lors des examens médicaux ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Biométrie ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hommes : Avez-vous déjà été visiblement excité sexuellement lors d’un examen médical ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Fournisseurs de soins de santé/d’éveil. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "514113_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

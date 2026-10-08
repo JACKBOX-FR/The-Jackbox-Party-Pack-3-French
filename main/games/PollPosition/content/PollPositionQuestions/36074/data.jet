@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "53",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont retournées dans des restaurants ou des entreprises parce qu’elles étaient attirées par quelqu’un qui y travaillait ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de téléphone portable ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous retourné dans un restaurant ou une entreprise parce que vous étiez attiré par un employé ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Des clients entichés. Retour d'affaires. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "494478_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494476_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

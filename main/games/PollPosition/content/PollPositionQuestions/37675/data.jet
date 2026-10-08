@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "29",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes connaissent un tour de passe-passe ou un tour de magie qu’elles sont prêtes à réaliser à tout moment ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Connaissez-vous un tour de passe-passe/de magie que vous pourriez réaliser dès maintenant ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Quotients de préparation à la prestidigitation. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "524824_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "524822_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "524825_1 ",
+      "n": "Intro"
+    }
+  ]
+}

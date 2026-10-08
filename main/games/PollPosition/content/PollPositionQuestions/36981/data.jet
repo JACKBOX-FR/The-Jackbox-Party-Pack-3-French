@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes remplissent leurs bacs à glaçons alors qu'ils ne sont qu'à moitié vides ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quand il est vide aux 2/3. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quand il est à moitié vide. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quand remplir le bac à glaçons ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Quand c’est complètement vide. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Contrôle des stocks de glaçons. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "515535_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "515533_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

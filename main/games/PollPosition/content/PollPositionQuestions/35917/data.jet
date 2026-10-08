@@ -1,0 +1,87 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Femelles ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de femmes utilisent la cire plus fréquemment que les autres méthodes d’épilation en masse ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "J'aime mes cheveux tels qu'ils sont. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Cire. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Crème dépilatoire. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Femmes : Quelle méthode utilisez-vous le plus fréquemment pour éliminer en masse les poils du corps ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Rasoir ou rasoir. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Épilation en gros. Les femelles. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488710_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

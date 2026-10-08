@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Session Stats",
+            "description": "Statistiques de la session de jeu en cours (ces statistiques seront réinitialisées lorsque vous quitterez le jeu.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch Stats",
+            "description": "Statistiques des jeux verrouillés sur Twitch (ces statistiques sont enregistrées même après que vous ayez quitté le jeu.)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Nom du joueur"
+    }, {
+        "id": "topScore",
+        "name": "Score élevé"
+    }, {
+        "id": "averageScore",
+        "name": "Note moyenne"
+    }, {
+        "id": "gamesPlayed",
+        "name": "Jeux joués"
+    }, {
+        "id": "averagePercentageOff",
+        "name": "Pourcentage de réduction moyen"
+    }]
+}

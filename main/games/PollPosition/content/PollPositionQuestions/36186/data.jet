@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "22",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes dorment sur le ventre ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Retour ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Estomac ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est votre position de sommeil préférée ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Côté ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Protocoles d'alignement lombaire. Les dormeurs sujettes. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497414_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497412_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

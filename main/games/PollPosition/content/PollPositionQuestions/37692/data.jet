@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont essayé de dissuader les policiers de émettre des contraventions ou de les arrêter ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous essayé de dissuader un policier de vous infliger une contravention ou de vous arrêter ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Interactions policières. Tentatives d'influence. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "525029_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525027_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "525030_1 ",
+      "n": "Intro"
+    }
+  ]
+}

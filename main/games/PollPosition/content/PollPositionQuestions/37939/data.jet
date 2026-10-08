@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes dorment généralement bien dans les avions ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Dormez-vous habituellement bien dans les avions ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Probabilité de sommeil. Conditions semblables à celles de la sardine.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "528548_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "528546_3",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

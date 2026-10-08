@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "32",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Hommes ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage d’hommes sont capables de nouer correctement des nœuds papillon par eux-mêmes ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hommes : Avez-vous déjà réussi à nouer correctement un nœud papillon ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Cravates alternatives. Nouage manuel. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "509356_2 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "509354_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

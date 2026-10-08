@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "merde|merde dans ton pantalon|merde|merde toi|merde dans ton pantalon|merde ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Bonne idée. Jetez votre parfum pour le confondre. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous êtes confronté à un lion de montagne, restez calme, tenez-vous aussi grand que possible et <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "542863_1 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "542861_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

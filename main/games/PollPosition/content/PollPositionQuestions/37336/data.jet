@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "79",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes trouvent les chimpanzés sur des patins à roulettes plus drôles que les chimpanzés fumant des cigares ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Fume un cigare ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance du trafic haut débit ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la chose la plus amusante qu'un chimpanzé puisse faire : faire du roller ou fumer un cigare ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Patin à roulettes ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Hijinx des primates. Des rires bon marché. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520074_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520072_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

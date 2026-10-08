@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes n'utilisent PAS de verrouillage par mot de passe ou par empreinte digitale sur leur téléphone ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Logiciels espions ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Utilisez-vous un mot de passe ou un verrouillage par empreinte digitale sur votre téléphone ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Utilisateurs de smartphones. Verrouillages à code ignorés. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497397_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497395_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "40",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de membres du public ne fera PAS de standing ovation si le reste du public reste assis ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Allez-vous ovationner un spectacle live même si le reste du public reste assis ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Applaudissements de conformité. Assis ou debout. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "482964_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "482962_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

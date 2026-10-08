@@ -1,0 +1,93 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "31",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont laissé des arbres de Noël après le 31 janvier ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Au-delà du 31 janvier ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Je n'installe pas de sapin de Noël. ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Jusqu'au 27 décembre-janvier. 1 ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Jusqu'au 31 janvier ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Combien de temps avez-vous laissé un sapin de Noël debout ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "26 décembre ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Retards dans l’abattage des arbres. Paresseux. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "512291_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "512289_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

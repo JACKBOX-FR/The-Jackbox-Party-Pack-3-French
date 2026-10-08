@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes peut expliquer avec confiance la différence entre un <i>macchiato</i> et un <i>latte</i> ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Pouvez-vous expliquer en toute confiance la différence entre un macchiato et un latte ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Concoctions Java sophistiquées. Compréhension. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "530954_2 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530952_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "530955_1 ",
+      "n": "Intro"
+    }
+  ]
+}

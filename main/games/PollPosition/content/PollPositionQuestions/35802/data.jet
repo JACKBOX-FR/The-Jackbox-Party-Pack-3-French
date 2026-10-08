@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "36",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent regarder <i>Les Guys de la Famille</i> plutôt que <i>Les Simpsons</i> ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les gars de la famille</i> ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Préférez-vous <i>Les Simpsons</i> ou <i>Family Guy</i> ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les Simpson</i> ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Des foyers dysfonctionnels aux heures de grande écoute. <i>Les Simpsons</i> contre <i>Family Guy.</i> ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "485404_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "485402_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

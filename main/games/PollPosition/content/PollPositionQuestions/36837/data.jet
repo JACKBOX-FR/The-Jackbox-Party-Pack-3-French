@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "44",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes considèrent que 60 degrés Fahrenheit sont une température idéale pour les t-shirts ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "80 degrés F / 26 C ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "60 degrés F / 15 C ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "70 degrés F / 21 C ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la température la plus basse pour être considérée comme météo pour les t-shirts ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "50 degrés F / 10 C ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Réduction du manchon en fonction de la température. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "512274_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "512272_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

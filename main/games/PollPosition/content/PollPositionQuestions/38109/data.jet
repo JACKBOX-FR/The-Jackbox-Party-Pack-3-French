@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont mangé du SPAM au cours de l’année écoulée ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Au cours de la dernière année, avez-vous mangé du SPAM ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Protéine remplie d'eau. Taux de déglutition personnels. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "530308_2 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530306_4 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

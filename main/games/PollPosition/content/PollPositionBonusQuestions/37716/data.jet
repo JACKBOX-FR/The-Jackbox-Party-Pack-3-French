@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "14",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Outre les yeux, quelle partie du visage humain les gens trouvent-ils la plus sexy ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la partie la plus sexy du visage humain ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Lèvres ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Langue ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Mâchoire ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Dents ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Cheveux ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Joues ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Nez ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Bouche ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Sourire ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Caractéristiques du visage. Excitation du cou. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525330_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

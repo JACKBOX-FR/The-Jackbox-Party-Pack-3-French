@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "69",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent lire un vrai livre plutôt qu’une tablette ou un autre gadget électronique ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Tablette ou autre appareil électronique ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quel est votre format de lecture préféré ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Vrai livre ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Apport littéraire. Systèmes de livraison préférés. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "525349_2 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525347_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

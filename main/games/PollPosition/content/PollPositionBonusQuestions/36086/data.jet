@@ -1,0 +1,154 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "8",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Selon les gens, quelle mascotte de céréales de dessin animé serait le colocataire le plus ennuyeux ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle mascotte de céréales de dessin animé serait le colocataire le plus ennuyeux ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Sonny le coucou ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Snap, crépitement et pop ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Cap'n Crunch ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Comte Chocula ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Escroc aux biscuits ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Chanceux le lutin ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Sam le Toucan ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Lapin Trix ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Tony le Tigre ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "494682_0 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494680_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "494683_0 ",
+      "n": "Intro"
+    }
+  ]
+}

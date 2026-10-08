@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Pointing",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Montrez la personne la moins susceptible de prononcer le mot « vagin ». ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542388_0 ",
+      "n": "Task"
+    }
+  ]
+}

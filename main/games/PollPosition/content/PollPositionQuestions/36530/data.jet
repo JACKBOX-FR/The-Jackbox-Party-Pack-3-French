@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "31",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ne parlent actuellement pas à des amis ou à des parents avec lesquels ils parlent habituellement mais contre lesquels ils sont en colère ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Fausses roches à microphone caché ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Ne parlez-vous actuellement pas à un ami ou à un parent à qui vous parlez habituellement mais contre lequel vous êtes en colère ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Réduction des communications. Conflit relationnel. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "505480_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "505478_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

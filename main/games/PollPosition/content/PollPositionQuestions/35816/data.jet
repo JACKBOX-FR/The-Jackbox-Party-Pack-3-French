@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Si elles étaient capables de voyager à n’importe quel moment, quel pourcentage de personnes choisiraient de revenir à un moment plus tôt dans leur propre vie ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "L'avenir, après mon départ. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Le passé, plus tôt dans ma vie. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "L'avenir, plus tard dans ma vie. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Si vous pouviez voyager dans le temps jusqu'à n'importe quel moment, lequel choisiriez-vous le plus probablement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Le passé, avant ma naissance. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Les énigmes du continuum. Ordonnancement spatio-temporel. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "485488_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "485486_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

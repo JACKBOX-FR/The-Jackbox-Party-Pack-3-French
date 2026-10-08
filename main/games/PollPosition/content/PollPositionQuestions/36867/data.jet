@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "36",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes, lorsqu'elles prennent des notes à la main, utilisent un mélange de cursives et d'imprimeries (au lieu de l'un ou de l'autre, ou de lettres majuscules) ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "En lettres majuscules ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "En version imprimée ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Dans un mélange de cursive et d'imprimé ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous prenez des notes à la main, comment les écrivez-vous habituellement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "En cursive ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Hybridation de la calligraphie. Fusions d'empreintes cursives. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "512992_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "512990_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

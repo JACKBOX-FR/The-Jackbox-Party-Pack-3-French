@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "70",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes éteignent TOUTES les lumières de leur maison lorsqu’elles sortent juste un petit moment ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Les lumières près de la porte par où je sors. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Normalement, je n’éteins aucune lumière lorsque je pars. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous quittez la maison pour quelques heures ou moins, quelles lumières éteignez-vous normalement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Toutes les lumières de ma maison. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Éclairage de la maison. Habitudes de conservation. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "495238_2 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "495236_6 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "495239_1 ",
+      "n": "Intro"
+    }
+  ]
+}

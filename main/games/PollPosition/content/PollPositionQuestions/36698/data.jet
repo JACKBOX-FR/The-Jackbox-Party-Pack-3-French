@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "50",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont été interviewées à la radio ou à la télévision ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Interception des télécommunications ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà été interviewé à la radio ou à la télévision ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Exposition médiatique. Population générale. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "509271_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "509269_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

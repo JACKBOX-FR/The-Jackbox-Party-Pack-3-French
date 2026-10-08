@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "À quel « fandom » la plupart des gens s’identifient-ils ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "À quel « fandom » de quelque sorte que ce soit vous identifiez-vous le plus ? (Beliebers, Deadheads, Raiders Nation, etc.) ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Whoviens ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Têtes mortes ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Fans de <i>Game of Thrones</i> ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Aucun ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Bronies ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Manteaux marron ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Fans de <i>Star Wars</i> ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Têtes de potier ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Trekkies ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "539916_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

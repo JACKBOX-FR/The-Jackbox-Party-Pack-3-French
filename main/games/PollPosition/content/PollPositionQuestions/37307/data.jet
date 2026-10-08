@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont utilisé la brosse à dents d’un proche ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Implantation secrète ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà utilisé la brosse à dents de votre partenaire ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Limites personnelles : Cohabitation, salivaire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "519637_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "519635_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "519638_1 ",
+      "n": "Intro"
+    }
+  ]
+}

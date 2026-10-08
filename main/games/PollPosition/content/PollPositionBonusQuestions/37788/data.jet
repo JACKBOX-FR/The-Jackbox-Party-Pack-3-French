@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "4 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel personnage <i>X-Men</i> les gens aiment-ils le plus ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel est votre personnage X-Men préféré ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Carcajou ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Mystique ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Tempête ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Dead Pool ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Professeur X ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Nightcrawler ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Voleur ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Cyclope ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Gambit ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Canon X-Men. Personnage le plus aimé. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526274_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

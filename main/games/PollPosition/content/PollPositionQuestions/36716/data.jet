@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes se coupent les ongles avec des ciseaux ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Rien. Je vais pour le compte rendu. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Ciseaux à ongles ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quelque chose d'autre ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Qu'utilisez-vous pour vous couper les ongles ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Coupe-ongles ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Couper les ongles. Appareils préférés. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "509665_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "509663_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

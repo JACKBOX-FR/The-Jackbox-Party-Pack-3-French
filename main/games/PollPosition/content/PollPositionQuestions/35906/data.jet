@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "30",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préféreraient proposer des noms d’utilisateur différents plutôt que des mots de passe différents ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Trouvez un nouveau mot de passe ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Que préféreriez-vous faire ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Trouvez un nouveau nom d'utilisateur ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Douleur liée au rejet de connexion. Nom d'utilisateur et mot de passe. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "488456_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488454_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

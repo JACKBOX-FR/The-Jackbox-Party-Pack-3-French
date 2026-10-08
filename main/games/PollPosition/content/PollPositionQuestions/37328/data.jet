@@ -1,0 +1,84 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "23",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes mangent au restaurant, commandent ou prennent un repas pour le dîner presque tous les jours ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Parfois ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Presque tous les jours ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quelle fréquence mangez-vous au restaurant, commandez-vous ou prenez-vous un repas pour le dîner ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Rarement ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Repas de commodité. Non préparé à la maison. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "519938_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "519936_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "519939_1 ",
+      "n": "Intro"
+    }
+  ]
+}

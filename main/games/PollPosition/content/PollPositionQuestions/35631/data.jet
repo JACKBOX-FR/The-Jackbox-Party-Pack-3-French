@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "31",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont de plus grands fans de <i>Star Trek</i> que de <i>Star Wars</i> ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Star Trek</i> ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous un plus grand fan de <i>Star Wars</i> ou de <i>Star Trek</i> ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Guerres des étoiles</i> ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Match de rancune dans l'espace : <i>Star Trek</i> contre <i>Star Wars</i>. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480288_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480286_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

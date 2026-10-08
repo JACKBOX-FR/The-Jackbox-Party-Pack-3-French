@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "56",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont amis sur Facebook avec un ou plusieurs de leurs anciens professeurs de lycée ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous amis sur Facebook avec au moins un de vos anciens professeurs de lycée ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Amitié élève-enseignant (approprié). ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "505463_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "505461_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "35",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est selon les gens leur meilleure caractéristique physique ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est votre meilleure caractéristique physique ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Yeux ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Pénis ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Barbe ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Visage ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Seins ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Sourire ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Fesses ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Cheveux ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Jambes ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "514064_0 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "514062_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "514065_0 ",
+      "n": "Intro"
+    }
+  ]
+}

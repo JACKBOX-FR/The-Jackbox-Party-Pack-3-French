@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes sont actuellement membres d’organisations de service fraternel ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous membre d’une organisation de service fraternel (Rotary Club, Kiwanis, B’nai B’rith, etc.) ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Organisations de services fraternels. Tarifs d'adhésion. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "493012_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493010_5 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

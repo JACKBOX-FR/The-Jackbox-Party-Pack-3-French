@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Outre la légalisation du cannabis, quelle activité illégale, selon les gens, devrait être décriminalisée ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Selon vous, quelle activité illégale devrait être décriminalisée ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Consommation/possession de drogue ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Âge inférieur pour boire ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Immigration ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Excès de vitesse ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Aucun ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Piratage",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Nudité publique / sexe ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Prostitution ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Interception des télécommunications ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Jaywalking ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "518340_0 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "518338_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

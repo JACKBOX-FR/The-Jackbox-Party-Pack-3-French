@@ -1,0 +1,114 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "une bonne chose à faire quand on s'ennuie ",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "un type d'exercice que vous détestez faire ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "une activité amusante que vous avez faite lors d'un premier rendez-vous ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "votre moyen préféré de vous débarrasser du hoquet ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose que tu préférerais faire maintenant ",
+      "n": "TextTaskText3"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult3"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "550261_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "550265_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "550266_0 ",
+      "n": "TextTask3"
+    },
+    {
+      "t": "A",
+      "v": "550263_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "550264_0",
+      "n": "TextTask1"
+    }
+  ]
+}

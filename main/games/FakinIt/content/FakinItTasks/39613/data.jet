@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la grimace que vous auriez si quelqu’un vous révélait un secret choquant mais que vous le saviez déjà secrètement. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541576_1 ",
+      "n": "Task"
+    }
+  ]
+}

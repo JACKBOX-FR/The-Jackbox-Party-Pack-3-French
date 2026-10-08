@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont des tatouages sur ou près de leurs fesses ou de leurs organes génitaux ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse des consommateurs ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous un tatouage sur ou près de vos fesses ou de vos parties génitales ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Emplacements encrés. Régions inférieures. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497924_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497922_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

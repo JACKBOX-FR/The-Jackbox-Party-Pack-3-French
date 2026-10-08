@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "47",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont envoyé un selfie nu à quelqu'un ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de téléphone portable ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà envoyé à quelqu'un une photo de votre corps nu ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Transmissions de photos nues. Pleure pour attirer l’attention. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "494342_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "494340_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

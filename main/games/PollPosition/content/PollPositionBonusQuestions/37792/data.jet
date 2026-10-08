@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel animateur de talk-show, passé ou présent, agace le plus les gens ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel animateur de talk-show, passé ou présent, trouvez-vous le plus ennuyeux ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Jay Leno ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Wendy Williams ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Géraldo Rivera ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Conan O'Brien ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Maury Povitch ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Jimmy Fallon ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Rosie O'Donnell ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Jerry Springer ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Oprah Winfrey ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Programmes de talk-shows. Personnalités aggravantes. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526352_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

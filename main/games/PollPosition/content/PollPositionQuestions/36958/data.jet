@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ajoutent presque TOUJOURS du sel aux repas qui leur sont servis ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Presque toujours ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Presque jamais ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Environ la moitié du temps ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quelle fréquence ajoutez-vous du sel à un repas qui vous est servi, que ce soit à la maison ou en public ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Jamais ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Additifs alimentaires. Candidature personnelle. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "515077_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "515075_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

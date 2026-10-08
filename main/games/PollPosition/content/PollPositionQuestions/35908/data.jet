@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "20",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont plus de 20 applications sur leur smartphone qu’elles n’ont pas utilisées depuis plus d’un an ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "20 ou plus ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Logiciels espions ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Combien d’applications avez-vous sur votre smartphone et que vous n’avez pas utilisées depuis plus d’un an ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Moins de 20 ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Accumulation d’applications pour smartphone. Icônes non cliquées. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "488478_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488476_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

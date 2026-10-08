@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "drogues|cocaïne|héroïne|trafic de drogue|trafic de drogue|trafic de drogue|vente de drogues|méthamphétamine ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Je savais qu'il y avait quelque chose de louche dans ce haut-de-forme. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Comment le gars du Monopoly a vraiment gagné sa richesse ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "475198_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "475196_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

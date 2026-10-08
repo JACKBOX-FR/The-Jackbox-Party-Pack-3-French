@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "85",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes croient qu’il existe des extraterrestres quelque part dans l’univers ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Croyez-vous qu’il existe des extraterrestres quelque part dans l’univers ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "La vie extraterrestre. Systèmes de croyance. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480316_6 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "480319_1 ",
+      "n": "Intro"
+    }
+  ]
+}

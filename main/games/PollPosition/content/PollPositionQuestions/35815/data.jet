@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "42",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Au lieu de « quart jusqu’à » ou « quart de », quel pourcentage de personnes disent qu’il est « quart jusqu’à » alors qu’il est 15 minutes avant l’heure ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "\"Quart à\" ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Écoutes téléphoniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "\"Quart jusqu'à\" ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quelle façon de dire « 15 minutes avant l’heure » préférez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "« Quart de » ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Divisions de longueur temporelle. Expressions du temps. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "485480_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "36",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes montent ou descendent habituellement les escaliers mécaniques, même s’ils ne sont PAS pressés ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je monte les marches. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous n’êtes pas pressé, comment voyagez-vous normalement sur un escalier roulant en mouvement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Je me tiens sur une marche et j'attends. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Déplacements intérieurs. Marcher ou rester debout. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520406_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "520409_1 ",
+      "n": "Intro"
+    }
+  ]
+}

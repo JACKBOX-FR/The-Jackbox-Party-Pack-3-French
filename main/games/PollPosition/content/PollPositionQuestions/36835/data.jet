@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes conservent des listes écrites de leurs mots de passe ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous une liste de vos mots de passe écrite quelque part ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Documentation sur le code d'accès. Listes cachées. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "512240_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "512238_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

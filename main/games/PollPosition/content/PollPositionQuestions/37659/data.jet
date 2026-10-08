@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "31",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes détestent la noix de coco ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Vous détestez la noix de coco ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Animosité envers les fruits tropicaux. Haine des drupes de palmier. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "524594_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "524592_3 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "28",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes détestent absolument, sans réserve, les clowns ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Écoutes téléphoniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Diriez-vous que vous détestez les clowns ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Le mouvement anti-bouffon. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "513026_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "513024_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

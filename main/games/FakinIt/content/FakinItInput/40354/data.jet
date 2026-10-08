@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "where you get most of your news from",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "la chaîne de télévision que vous regardez le plus ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "si vous aviez votre propre émission de télévision, sur quel réseau elle serait probablement diffusée ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "un réseau de télévision pour lequel vous préféreriez NE PAS payer ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "543435_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "543439_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "543437_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "543438_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes utilisent des cotons-tiges pour nettoyer leurs oreilles presque tous les jours ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Parfois ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Presque tous les jours ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "À quelle fréquence utilisez-vous des cotons-tiges ou d’autres cotons-tiges pour nettoyer vos oreilles ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Jamais ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Outils en coton. Fréquence d'écouvillonnage. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "480240_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "480238_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

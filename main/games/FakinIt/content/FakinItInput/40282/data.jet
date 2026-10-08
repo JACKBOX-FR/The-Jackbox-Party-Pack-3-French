@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "an object currently in your car",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "un objet que vous pourriez utiliser pour assassiner quelqu'un ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "le pire cadeau que tu aies jamais offert ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose dans ta cuisine ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "543014_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "543018_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "543016_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "543017_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

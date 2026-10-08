@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quand les gens pensent au yoga, quelle est la première pose qui leur vient à l’esprit après Chien tête en bas ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la première pose de yoga qui vous vient à l’esprit ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Arbre ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Cobra ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Montagne ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Chat ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Planche ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Salutation au soleil ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Guerrier I / II / III ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Lotus ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Pose de l'enfant ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Postures de yoga. Connaissance du public. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "483972_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

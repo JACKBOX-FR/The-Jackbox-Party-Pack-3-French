@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "42",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont entendu \"Let It Go\" de <i>Frozen</i> dans son intégralité plus de 20 fois ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "10 à 20 fois ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage des données électroniques",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Plus de 20 fois ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Combien de fois avez-vous entendu la chanson de <i>Frozen</i> « Let It Go » dans son intégralité ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "0 à 10 fois ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Des hymnes incessants. Capacité à lâcher prise. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "524724_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

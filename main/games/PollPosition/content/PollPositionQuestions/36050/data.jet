@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "62",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont insulté les assistants personnels intelligents de leur smartphone (comme Siri) juste pour entendre la réponse ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de téléphone portable ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà insulté l’assistant personnel intelligent de votre smartphone (comme Siri) juste pour entendre la réponse ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Cruauté envers les ordinateurs. Contrecoup de l’IA. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "493782_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "493780_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Hands",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez la main si vous dormez avec une couverture de sécurité ou un animal en peluche. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "540998_0 ",
+      "n": "Task"
+    }
+  ]
+}

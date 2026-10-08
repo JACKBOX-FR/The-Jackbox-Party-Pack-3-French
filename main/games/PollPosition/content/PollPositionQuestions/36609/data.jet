@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "57",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont fait la danse du poulet lors de réceptions de mariage ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Implantation secrète ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà fait la danse du poulet lors d'une réception de mariage ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Célébrations nuptiales. Belle, volaille. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "507352_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "507350_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

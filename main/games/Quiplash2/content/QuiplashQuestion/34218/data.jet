@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jackbox|Vous ne connaissez pas Jack|YDKJ|Jellyvision|Fibbage|Quiplash|Drawful|The Jackbox Party Pack 3|The Jackbox Party Pack|Jackbox Party Pack ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Attendez, vous n'achèteriez pas un calendrier Jackbox sexy ? J'aurais aimé le savoir avant de raser mon bikini. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Un calendrier nu vraiment merdique : Les Hommes de <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "471191_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "471189_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

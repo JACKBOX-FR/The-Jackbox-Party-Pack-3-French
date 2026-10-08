@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la grimace que vous auriez si vous étiez attaqué par un loup-garou sexy. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541218_0 ",
+      "n": "Task"
+    }
+  ]
+}

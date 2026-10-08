@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Selon les gens, quelle est LA mode la plus agaçante de ces 10 dernières années ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "En trois mots ou moins, quelle est LA mode la plus agaçante de ces 10 dernières années ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Affaissement ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Twerk ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Crocos ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Hipsters ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Planches ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Yolo ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Jean skinny ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Selfies ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Petits pains pour hommes ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "518153_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

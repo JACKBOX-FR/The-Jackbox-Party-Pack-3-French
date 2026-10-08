@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes clignent principalement de l’œil gauche ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Oeil droit ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Biométrie ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avec quel œil clignez-vous habituellement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Oeil gauche ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Contractions sexy des muscles du visage. Oeil gauche contre œil droit.",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527902_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

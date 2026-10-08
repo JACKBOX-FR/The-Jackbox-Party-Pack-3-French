@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "36",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes utilisent habituellement des gants de toilette pour appliquer le savon, et pas seulement le pain de savon lui-même ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Non, j'utilise habituellement juste le savon. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Dans le bain ou sous la douche, utilisez-vous un gant de toilette pour appliquer le savon ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Oui, j'utilise habituellement un gant de toilette. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Rituels hygiéniques. Application de produit de nettoyage. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "499440_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

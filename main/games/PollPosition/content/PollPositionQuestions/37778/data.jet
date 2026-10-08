@@ -1,0 +1,77 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "59",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes grince habituellement des dents plutôt que de rire devant des vidéos montrant des personnes embarrassées ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je grince des dents. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Biométrie ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Comment réagissez-vous habituellement aux vidéos de personnes embarrassées ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Je ris. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Réactions de honte du public. Grimacer contre rire. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526139_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

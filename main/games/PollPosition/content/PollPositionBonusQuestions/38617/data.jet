@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "21",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "De quel péché mortel les gens confessent-ils le plus souvent qu’ils sont coupables ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "De quel péché mortel êtes-vous coupable ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Paresseux ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Mentir ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "La cupidité ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "L'adultère ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Tous ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Envie ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Fierté ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Luxure ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Gourmandise ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Des consciences coupables. Péchés mortels. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "535473_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

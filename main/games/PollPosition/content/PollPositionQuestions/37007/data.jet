@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes coupent régulièrement ou évitent de manger la croûte de leurs sandwichs ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Caméra de sécurité ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Coupez-vous régulièrement ou évitez-vous de manger la croûte de vos sandwichs ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Les aliments cuits au four sont à la frontière du snobisme. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "515879_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "515877_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

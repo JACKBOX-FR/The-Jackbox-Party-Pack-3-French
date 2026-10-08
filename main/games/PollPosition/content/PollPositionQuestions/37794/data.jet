@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préfèrent consulter les listes en ligne en cliquant sur les flèches ou les numéros de page au lieu de les faire défiler verticalement ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "En cliquant sur les flèches ou les numéros de page. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance du trafic haut débit ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Comment préférez-vous afficher les listes de choses en ligne ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "En faisant défiler verticalement. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Navigation en ligne. Latéral ou vertical. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526392_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526390_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

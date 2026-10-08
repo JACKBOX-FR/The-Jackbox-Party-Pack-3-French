@@ -1,0 +1,87 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes utilisent des images de leurs animaux de compagnie comme fond d'écran pour leur ordinateur de bureau ou leur téléphone ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Une image de quelqu’un/quelque chose d’autre. ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Une image de mon animal de compagnie. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Logiciels espions ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Une image de mon/mes enfant(s). ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Qu’avez-vous tendance à utiliser comme fond d’écran pour votre ordinateur ou votre téléphone ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Une image de mon autre significatif. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Fonds d'écran. Des animaux adorables. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "492099_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

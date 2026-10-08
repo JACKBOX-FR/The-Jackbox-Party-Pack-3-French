@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "51",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes restent éveillées jusqu'à 4h00 du matin au moins une fois par mois en moyenne ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Micropuce humaine ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Au cours d'un mois moyen, restez-vous éveillé jusqu'à 4 heures du matin au moins une fois ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "La procrastination du sommeil. Régularité. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "495125_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "495123_5 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "43",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Si vous avez le choix entre les superstars Michael Jackson et Prince, quel pourcentage de personnes préfèrent Prince ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "prince ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quelle superstar préférez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Michael Jackson ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Musiciens américains. Titres nobles européens. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526107_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526105_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

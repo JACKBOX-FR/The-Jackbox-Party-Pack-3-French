@@ -1,0 +1,26 @@
+[
+    {
+        "title":"PLAY GAME",
+        "action":"doPlayGame",
+        "description":"Créez une salle de jeux et jouez",
+        "value":0
+    },
+    {
+        "title":"LEADERBOARD",
+        "action":"doLeaderboards",
+        "description":"Suivez les statistiques de vos jeux récents",
+        "value":1
+    },
+    {
+        "title":"SETTINGS",
+        "action":"doSettings",
+        "description":"Censure, options d'audience, etc.",
+        "value":2
+    },
+    {
+        "title":"BACK TO PACK",
+        "action":"doBackToPack",
+        "description":"Revenez au Party Pack",
+        "value":3
+    }
+]

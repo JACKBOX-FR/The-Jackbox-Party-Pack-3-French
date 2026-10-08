@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "16",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "S’ils devaient mourir dans un mois, quelle serait la première chose que les gens rayeraient de leur liste de choses à faire ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Si vous deviez mourir dans un mois, quelle est la première chose que vous rayeriez de votre Bucket List (en 5 mots ou moins) ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Parcourez le monde ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Quitter le travail ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Voyage en voiture ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Se marier",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Voyage à Hawaï ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Perdre la virginité ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Voyage en Europe ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Saut en parachute ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage des données électroniques ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Voyage au Japon ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "501106_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "3 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la chose la plus difficile à abandonner pendant 40 jours ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quelle serait la chose la plus difficile à abandonner pendant 40 jours ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Internet ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "soude ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Fumer ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Sexe ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Jeux ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Manger ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Bonbons ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Téléphone portable ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Masturber ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Discipline rigide. Des sacrifices lenténiens. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "492529_0 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "492527_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

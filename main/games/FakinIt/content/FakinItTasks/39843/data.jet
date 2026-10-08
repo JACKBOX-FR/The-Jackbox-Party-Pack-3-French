@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez autant de doigts que de boissons alcoolisées que vous avez bu au cours des dernières 24 heures. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542132_0 ",
+      "n": "Task"
+    }
+  ]
+}

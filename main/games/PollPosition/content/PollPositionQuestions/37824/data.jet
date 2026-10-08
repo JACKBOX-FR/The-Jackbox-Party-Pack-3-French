@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes essaient d'extraire le ketchup des bouteilles en verre en utilisant la méthode de secousse vigoureuse (au lieu de rouler la bouteille ou de la tapoter) ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Faire rouler ou faire tournoyer la bouteille. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Télévision en circuit fermé ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Tapoter la bouteille à un endroit particulier. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est la première chose que vous essayez d’extraire du ketchup d’une bouteille de ketchup en verre ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Agiter vigoureusement le flacon. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Condiments contenus. Retrait fastidieux. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526837_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526835_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

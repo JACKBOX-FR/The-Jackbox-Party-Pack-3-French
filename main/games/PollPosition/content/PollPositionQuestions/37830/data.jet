@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "26",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes croient que Bigfoot est réel ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Bigfoot est-il réel ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Légendes urbaines. Plausibilité Sasquatch. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526941_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526939_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

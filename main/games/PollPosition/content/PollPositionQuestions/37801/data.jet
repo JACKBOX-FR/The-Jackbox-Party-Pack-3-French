@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "75",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de visiteurs YouTube laisseront passer une publicité complète de 30 secondes avant le début de leur vidéo, mais NE regarderont PAS la publicité ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Laissez la publicité être diffusée mais faites autre chose pendant 30 secondes. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Surveillance du trafic haut débit ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Abandonner. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Si vous devez attendre 30 secondes complètes d'une publicité avant de voir une vidéo YouTube, que faites-vous habituellement ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Regardez l'annonce. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Patience en matière de publicité sur Internet. Attendez la tolérance. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "526511_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526509_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont lu au moins un chapitre de <i>Cinquante Nuances de Grey</i> ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous lu au moins un chapitre de « Cinquante Nuances de Grey » ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Plaisirs coupables de femme au foyer. <i>Cinquante nuances de Grey</i>. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "536646_1",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "536644_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

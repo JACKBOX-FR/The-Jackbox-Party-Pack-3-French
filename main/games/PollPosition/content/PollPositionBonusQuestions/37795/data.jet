@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "24",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "17",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "11",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "6",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel jeu de société classique les gens apprécient-ils le plus ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel est votre jeu de société classique préféré ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "<i>Monopole</i> ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "<i>Poursuite triviale</i> ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "<i>Les colons de Catane</i> ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "Population générale ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "<i>Risque</i> ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "<i>Désolé !</i> ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "<i>Le jeu de la vie</i> ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Échecs ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "<i>Indice</i> ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "<i>Scrabble</i> ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526407_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

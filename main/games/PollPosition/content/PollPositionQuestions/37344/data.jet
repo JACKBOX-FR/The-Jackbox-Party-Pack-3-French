@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "15",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Plus de 40 ans ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes de plus de 40 ans possèdent encore des vestes letterman de lycée ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Personnes de plus de 40 ans : possédez-vous toujours une veste de lettre de lycée ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Des jours de gloire. Souvenirs liés au manteau ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "520210_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "520208_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

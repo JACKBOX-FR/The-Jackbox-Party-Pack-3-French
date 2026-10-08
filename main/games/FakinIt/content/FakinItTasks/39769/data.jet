@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Levez autant de doigts que de fois où vous allez habituellement au gymnase chaque semaine. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541888_0 ",
+      "n": "Task"
+    }
+  ]
+}

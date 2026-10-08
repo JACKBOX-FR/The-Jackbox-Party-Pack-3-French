@@ -1,0 +1,82 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Femelles ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de femmes portent régulièrement des vêtements neufs avec une étiquette de prix avant de décider de les retourner ou non ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Parfois ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Colibris espions robotisés ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Régulièrement ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Femmes : Portez-vous des vêtements neufs avec une étiquette de prix avant de décider de les retourner ou non ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Jamais ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Pièces jointes pour vêtements. Étiquettes de prix usées. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "526757_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

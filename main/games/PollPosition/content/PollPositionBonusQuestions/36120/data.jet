@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "19",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "10",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "7",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "5",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "À quel comportement superstitieux les gens se livrent-ils le plus souvent ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel comportement superstitieux adoptez-vous le plus souvent ? (En aussi peu de mots que possible, s'il vous plaît.) ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Toucher du bois ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Taper sur le toit d'une voiture pendant un feu jaune ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Éviter les chats noirs ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Croisant les doigts ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Ramasser des centimes en tête-à-tête ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Ne pas marcher sur les fissures ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Aucun ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Ne pas marcher sous les échelles ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Jeter du sel par-dessus l'épaule ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Pas de chance. Causes surnaturelles. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "496028_0 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "496026_1",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "67",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont utilisé des cuillères-fourchettes plus de 10 fois dans leur vie ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Une à dix fois. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Imagerie satellite ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Je n'ai jamais utilisé de cuillère. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Combien de fois dans votre vie avez-vous utilisé une cuillère-cuillère ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Plus de 10 fois.",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Ustensiles de nouveauté. Utilisation occasionnelle. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "518036_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "518034_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

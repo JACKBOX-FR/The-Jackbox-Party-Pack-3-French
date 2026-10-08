@@ -1,0 +1,69 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "39",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont regardé un film de la franchise <i>Air Bud</i> dans son intégralité ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Profilage de la population ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous regardé un film entier de la franchise <i>Air Bud</i> ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Les pires films des meilleurs amis de l’homme. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "525736_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "525734_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "525737_1 ",
+      "n": "Intro"
+    }
+  ]
+}

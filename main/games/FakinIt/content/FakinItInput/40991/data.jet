@@ -1,0 +1,134 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard4"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard3"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "le nombre de paires de chaussures que vous possédez ",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "l'âge que tu avais quand tu as eu ton premier baiser ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "le nombre de paires de sous-vêtements que vous possédez et qui sont troués ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "le nombre de kilomètres que tu pourrais parcourir, en ce moment ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "le nombre de frères et sœurs que vous avez ",
+      "n": "TextTaskText3"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult4"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult3"
+    },
+    {
+      "t": "S",
+      "v": "Selon vous, quel detruet être l'âge légal pour boire de l'alcool ",
+      "n": "TextTaskText4"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "550273_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "550279_0",
+      "n": "TextTask4"
+    },
+    {
+      "t": "A",
+      "v": "550277_0",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "550278_0",
+      "n": "TextTask3"
+    },
+    {
+      "t": "A",
+      "v": "550275_0",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "550276_0",
+      "n": "TextTask1"
+    }
+  ]
+}

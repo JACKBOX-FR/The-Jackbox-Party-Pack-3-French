@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Counting",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Tenez autant de doigts que de garnitures que vous commandez habituellement sur une pizza. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "542532_0 ",
+      "n": "Task"
+    }
+  ]
+}

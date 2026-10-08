@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "someone you find attractive",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "le nom de quelqu'un dans cette pièce ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "quelqu'un que tu as vu nu ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "quelqu'un avec une belle voix chantante ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "543225_0 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "543229_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "543227_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "543228_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

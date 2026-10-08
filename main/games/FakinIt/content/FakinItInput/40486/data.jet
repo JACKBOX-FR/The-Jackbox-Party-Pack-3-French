@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Input",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "TextHard1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextHard2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "TextAdult0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "one thing you believe you excel at",
+      "n": "TextTaskText0"
+    },
+    {
+      "t": "S",
+      "v": "la seule compétence que vous souhaiteriez avoir ",
+      "n": "TaskText"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose pour lequel tu as gagné un trophée ",
+      "n": "TextTaskText1"
+    },
+    {
+      "t": "S",
+      "v": "quelque chose qui ne detruet jamais être fait nu ",
+      "n": "TextTaskText2"
+    },
+    {
+      "t": "S",
+      "v": "true ",
+      "n": "TextAdult2"
+    },
+    {
+      "t": "S",
+      "v": "false ",
+      "n": "TextAdult1"
+    },
+    {
+      "t": "A",
+      "v": "546121_1 ",
+      "n": "Task"
+    },
+    {
+      "t": "A",
+      "v": "546125_0 ",
+      "n": "TextTask2"
+    },
+    {
+      "t": "A",
+      "v": "546123_0 ",
+      "n": "TextTask0"
+    },
+    {
+      "t": "A",
+      "v": "546124_0 ",
+      "n": "TextTask1"
+    }
+  ]
+}

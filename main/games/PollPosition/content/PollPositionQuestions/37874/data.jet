@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "40",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Population générale ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes choisissent de NE PAS s'abonner à la télévision par câble ou par satellite ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Non, j’ai choisi de ne pas le faire. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Agents de terrain ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Non, je ne peux pas. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Êtes-vous actuellement abonné à la télévision par câble ou par satellite ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Oui. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Télévision haut de gamme. Fiers non-abonnés. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "527626_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "527624_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

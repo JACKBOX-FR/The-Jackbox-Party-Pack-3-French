@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "22",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de managers de Fantasy Football ont dirigé des équipes dont les noms contenaient une partie de leur propre nom ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Interception des télécommunications ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hé, les joueurs de Fantasy Football ! Avez-vous déjà dirigé une équipe de football Fantasy dont le nom contenait une partie de VOTRE nom ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Ligues de sports d’équipe utopiques. Jeux de mots faibles. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "508578_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "508576_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

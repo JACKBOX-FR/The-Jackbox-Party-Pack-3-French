@@ -1,0 +1,154 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "31",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "26",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "18",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "1 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "Quel acteur les gens préfèrent-ils dans le rôle de Batman ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Quel acteur est votre Batman préféré ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Christian Balé ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Tous ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Aucun d'entre eux ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Val Kilmer ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Georges Clooney ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Kévin Conroy ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Ben Affleck ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Michael Keaton ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Exploration de données sur les réseaux sociaux ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Adam Ouest ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Acteurs de Batman. Favoris des fans. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "497967_0 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "497965_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "v": "497968_0 ",
+      "n": "Intro"
+    }
+  ]
+}

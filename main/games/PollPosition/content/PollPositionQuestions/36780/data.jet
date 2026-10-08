@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "33",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ont eu la bouche lavée avec du savon lorsqu’elles étaient enfants ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Informateurs de l'agence ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Quand vous étiez enfant, vous êtes-vous déjà lavé la bouche avec du savon ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Les punitions de l'enfance. Détergents oraux. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "511049_4 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "511047_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

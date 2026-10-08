@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "conneries|gilet anti-conneries|BS ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Tu me le dis ! Je dois héberger ce jeu tous les jours... Je veux dire, passons à autre chose ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Dans votre travail, vous n’avez pas besoin d’un gilet pare-balles, vous avez besoin d’un <BLANK>gilet pare-balles ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "474050_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "474048_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

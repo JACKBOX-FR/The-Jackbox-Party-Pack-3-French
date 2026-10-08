@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "38",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "Hommes ",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage d’hommes préfèrent les rasoirs électriques comme appareil de rasage du visage ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Rasoir électrique ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Caméra cachée à la maison ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Hommes : quel est votre appareil de rasage du visage préféré ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Rasoir manuel ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Épilation masculine. Rasoirs manuels ou électriques. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "488706_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488704_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

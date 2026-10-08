@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "N",
+      "v": "13",
+      "n": "Val0"
+    },
+    {
+      "t": "N",
+      "v": "9",
+      "n": "Val1"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val2"
+    },
+    {
+      "t": "N",
+      "v": "4",
+      "n": "Val3"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val4"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val5"
+    },
+    {
+      "t": "N",
+      "v": "3",
+      "n": "Val6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Val7"
+    },
+    {
+      "t": "N",
+      "v": "2 ",
+      "n": "Val8"
+    },
+    {
+      "t": "S",
+      "v": "(Mis à part les questions juridiques, financières et de sécurité...) Si les gens pouvaient choisir d'avoir n'importe quel animal de compagnie exotique, lequel serait-il ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Laissons de côté les considérations juridiques, financières et de sécurité : si vous pouviez avoir un animal de compagnie exotique, lequel serait-il ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Tigre ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Loutre ",
+      "n": "Choice7"
+    },
+    {
+      "t": "S",
+      "v": "Pingouin ",
+      "n": "Choice8"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "Ours ",
+      "n": "Choice5"
+    },
+    {
+      "t": "S",
+      "v": "open ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Loup ",
+      "n": "Choice6"
+    },
+    {
+      "t": "S",
+      "v": "Lion ",
+      "n": "Choice3"
+    },
+    {
+      "t": "S",
+      "v": "Éléphant ",
+      "n": "Choice4"
+    },
+    {
+      "t": "S",
+      "v": "Singe ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Décryptage du téléphone ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Renard ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "540079_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Détendez-vous sur le visage de la plage. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541470_0 ",
+      "n": "Task"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "soigneusement|très soigneusement ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Une séduction soignée : me rappelle les livres que ma mère gardait près de la baignoire. ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Comment séduire un ours ? ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "466404_2 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "466402_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

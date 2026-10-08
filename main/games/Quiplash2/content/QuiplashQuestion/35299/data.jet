@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "ta mort|ta propre mort|tu meurs|comment tu vas mourir ",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Ce dessin au crayon de ma mort serait utile si je pouvais comprendre ce qui me tuait. Est-ce un couteau ? Une banane bizarre ? Apprends à dessiner, gamin ! ",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Vous savez que vous avez un enfant foiré quand ils vous donnent un dessin au crayon de <BLANK> ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "t": "A",
+      "v": "477240_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "t": "A",
+      "v": "477238_0 ",
+      "n": "PromptAudio"
+    }
+  ]
+}

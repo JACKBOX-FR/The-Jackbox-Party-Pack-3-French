@@ -1,0 +1,83 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "44",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes ignorent les pièces de monnaie qu’elles voient par terre plutôt que de les ramasser ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Je le récupère parce que c’est de l’argent gratuit. ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Je l'ignore. ",
+      "n": "Choice2"
+    },
+    {
+      "t": "S",
+      "v": "Quand vous voyez un sou par terre, que faites-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Je le ramasse par chance. ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Découverte de pièces. La monnaie de la monnaie. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "484058_3 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "484056_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

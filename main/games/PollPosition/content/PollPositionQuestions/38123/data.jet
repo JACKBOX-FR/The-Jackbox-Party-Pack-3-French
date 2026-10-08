@@ -1,0 +1,78 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "59",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "mc ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes préféreraient les services de détective de Sherlock Holmes à ceux de Batman ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Batman ",
+      "n": "Choice1"
+    },
+    {
+      "t": "S",
+      "v": "Analyse prédictive ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Ah non ! Quelqu’un est entré par effraction et a volé vos objets de valeur ! Quel détective fictif appellerez-vous ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Sherlock Holmes ",
+      "n": "Choice0"
+    },
+    {
+      "t": "S",
+      "v": "Résolveurs de mystères dépendants du cerveau. Holmes contre Batman. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "530546_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "530544_2 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}

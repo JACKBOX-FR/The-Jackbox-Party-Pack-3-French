@@ -1,0 +1,34 @@
+{
+  "fields": [
+    {
+      "t": "S",
+      "v": "Faces",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Star"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "Adult"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "Hard"
+    },
+    {
+      "t": "S",
+      "v": "Faites la tête que vous auriez si vous étiez le Faker. ",
+      "n": "TaskText"
+    },
+    {
+      "t": "A",
+      "v": "541280_1 ",
+      "n": "Task"
+    }
+  ]
+}

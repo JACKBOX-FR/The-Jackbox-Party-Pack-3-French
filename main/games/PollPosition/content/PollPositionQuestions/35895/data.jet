@@ -1,0 +1,68 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponse"
+    },
+    {
+      "t": "N",
+      "v": "76",
+      "n": "A"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "PollAns"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Target"
+    },
+    {
+      "t": "S",
+      "v": "yn ",
+      "n": "Type"
+    },
+    {
+      "t": "S",
+      "v": "Quel pourcentage de personnes PEUVENT s'empêcher de lire des spoilers de films ou de séries télévisées lorsqu'elles voient des avertissements « alerte spoiler » ? ",
+      "n": "QText"
+    },
+    {
+      "t": "S",
+      "v": "Fausse étude de groupe de discussion ",
+      "n": "DataMode"
+    },
+    {
+      "t": "S",
+      "v": "Vous voyez « Alerte spoiler ! » dans un article sur un film ou une série télévisée que vous souhaitez voir. Pouvez-vous vous contrôler ? ",
+      "n": "PollQ"
+    },
+    {
+      "t": "S",
+      "v": "Alerte spoiler : la réponse est 23. ",
+      "n": "ExpResults"
+    },
+    {
+      "t": "A",
+      "v": "488240_1 ",
+      "n": "Response"
+    },
+    {
+      "t": "A",
+      "v": "488238_1 ",
+      "n": "Q"
+    },
+    {
+      "t": "A",
+      "n": "Intro"
+    }
+  ]
+}
