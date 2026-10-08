@@ -5,7 +5,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 ## Détails
 
 | Jeu  | Jeu dans dossiers |Textes du jeu | Fichiers internes (images, polices, etc) |Doublage | Crédits |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Quiplash 2  | Quiplash2 | ✅ | ✅| ❌ | [NIX3S](https://github.com/NIX3S) |
 | Trivia Murder Party  | TriviaDeath | ✅ | ✅ | ❌ | [NIX3S](https://github.com/NIX3S) (fichier word.txt non fait)|
 | Guesspionage  | PollPosition | ✅ | ✅ | ❌ | [NIX3S](https://github.com/NIX3S) |
